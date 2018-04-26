@@ -16,7 +16,7 @@ TODO: list of bad things, you should avoid
 - [Chairs](#chairs)
 - [Desks](#desks)
 
-## Keyboars
+## Keyboards
 
 TODO: describe what is important when ckoosing the best keyboard. What is "key switch"
 TODO: link to the list of bad keyboards
