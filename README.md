@@ -10,9 +10,9 @@ TODO: list of bad things, you should avoid
 - [Mice](#mice)
 - [Monitors](#monitors)
 - [Notebooks](#notebooks)
-- [PC Components](#pc_components)
+- [PC Components](#pc-components)
 - [Headphones](#headphones)
-- [Audio Systems](#audio_systems)
+- [Audio Systems](#audio-systems)
 - [Chairs](#chairs)
 - [Desks](#desks)
 
