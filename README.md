@@ -34,8 +34,8 @@ TODO: link to the list of bad keyboards
 [Сравнение мышек Zowie FK2 ZA12 EC-1A EC-2A Logitech G-PRO G403 SteelSeries Rival 300](https://youtu.be/IqIrF-lrR2M)
 
   - [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html) & [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html)\
-    ergonomic; right-hand; weight 90g(EC2-B) and 99g(EC1-B); 5 buttons
-    Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [RU](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)
+    ergonomic; right-hand; weight 90g(EC2-B) and 99g(EC1-B); 5 buttons\
+    Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)
     Review [EN](https://youtu.be/-5Ksf2Bn-og) & [EN](https://youtu.be/QHxUvNIVy1k)
     
 
