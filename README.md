@@ -12,7 +12,7 @@ TODO: list of bad things, you should avoid
 - [Notebooks](#notebooks)
 - [PC Components](#pc_components)
 - [Headphones](#headphones)
-- [Audio Systems](#)
+- [Audio Systems](#audio_systems)
 - [Chairs](#chairs)
 - [Desks](#desks)
 
@@ -28,3 +28,22 @@ TODO: link to the list of bad keyboards
 - [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001) - TKL; Membrane switchers; no backlight; wireless; low-profile  
   Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)  
   Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
+
+## Mice
+
+## Monitors
+
+## Notebooks
+
+## PC Components
+
+## Headphones
+
+## Audio Systems
+
+- [A5+ Powered Speakers](https://audioengineusa.com/shop/poweredspeakers/a5-plus-powered-speakers/)\
+  See alow [A5+ Wireless Speakers](https://audioengineusa.com/shop/wirelessspeakers/a5-wireless-speakers/)
+
+## Chairs
+
+## Desks
