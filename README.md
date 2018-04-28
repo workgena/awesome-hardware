@@ -42,7 +42,7 @@ TODO: link to the list of bad keyboards
 ## Audio Systems
 
 - [A5+ Powered Speakers](https://audioengineusa.com/shop/poweredspeakers/a5-plus-powered-speakers/)\
-  See alow [A5+ Wireless Speakers](https://audioengineusa.com/shop/wirelessspeakers/a5-wireless-speakers/)
+  See alow [Wireless](https://audioengineusa.com/shop/wirelessspeakers/a5-wireless-speakers/) version
 
 ## Chairs
 
