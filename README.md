@@ -32,7 +32,8 @@ TODO: link to the list of bad keyboards
 
 ## Mice
 
-[Сравнение мышек Zowie FK2 ZA12 EC-1A EC-2A Logitech G-PRO G403 SteelSeries Rival 300](https://youtu.be/IqIrF-lrR2M)
+[Сравнение мышек Zowie FK2 ZA12 EC-1A EC-2A Logitech G-PRO G403 SteelSeries Rival 300](https://youtu.be/IqIrF-lrR2M)\
+[The Best Mouse for Laptops](https://youtu.be/tNCwvihWO78)
 
 - [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html)\
   ergonomic; right-hand; weight 90g(EC2-B); 5 buttons\
