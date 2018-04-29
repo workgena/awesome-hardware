@@ -22,13 +22,20 @@ TODO: list of bad things, you should avoid
 TODO: describe what is important when ckoosing the best keyboard. What is "key switch"
 TODO: link to the list of bad keyboards
 
-- [Leopold FC660C](http://global.leopold.co.kr/product.php?pcode=fc660c) - TKL 60%; Topre switchers; No backlight; wired  
+- [Leopold FC660C](http://global.leopold.co.kr/product.php?pcode=fc660c)\
+  TKL 60%; Topre switchers; No backlight; wired  
   Buy [US](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495)  
   Review [EN](https://youtu.be/dfGBp27H7Bo) [RU](https://youtu.be/mSPNBYC3Ov4)
   
-- [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001) - TKL; Membrane switchers; no backlight; wireless; low-profile  
+- [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
+  TKL; Membrane switchers; no backlight; wireless; low-profile  
   Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)  
   Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
+
+- [Topre Realforce RGB](http://www.realforce.co.jp/en/products/realforce_rgb/index.html)\
+  topre switchers; RGB; Actuation Point Changer(1.5/2.2/3 mm)\
+  Buy [US](https://www.amazon.com/Topre-Realforce-Premium-Mechanical-Keyboard/dp/B01MSOPQ54/)\
+  Review [EN](https://youtu.be/D9G3jkxaQYs)
 
 ## Mice
 
@@ -37,7 +44,7 @@ TODO: link to the list of bad keyboards
 
 - [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html)\
   ergonomic; right-hand; weight 90g(EC2-B); 5 buttons\
-  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)
+  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)\
   Review [EN](https://youtu.be/-5Ksf2Bn-og) & [EN](https://youtu.be/QHxUvNIVy1k)
     
 - [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
