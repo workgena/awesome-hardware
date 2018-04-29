@@ -33,7 +33,7 @@ TODO: link to the list of bad keyboards
   Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
 
 - [Topre Realforce RGB](http://www.realforce.co.jp/en/products/realforce_rgb/index.html)\
-  topre switchers; RGB; Actuation Point Changer(1.5/2.2/3 mm);
+  topre switchers; RGB; Actuation Point Changer(1.5/2.2/3 mm)\
   Buy [US](https://www.amazon.com/Topre-Realforce-Premium-Mechanical-Keyboard/dp/B01MSOPQ54/)\
   Review [EN](https://youtu.be/D9G3jkxaQYs)
 
