@@ -12,6 +12,7 @@ TODO: list of bad things, you should avoid
 - [Notebooks](#notebooks)
 - [PC Components](#pc-components)
 - [Headphones](#headphones)
+- [Microphones](#microphone)
 - [Audio Systems](#audio-systems)
 - [Chairs](#chairs)
 - [Desks](#desks)
@@ -33,15 +34,15 @@ TODO: link to the list of bad keyboards
 
 [Сравнение мышек Zowie FK2 ZA12 EC-1A EC-2A Logitech G-PRO G403 SteelSeries Rival 300](https://youtu.be/IqIrF-lrR2M)
 
-  - [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html)\
-    ergonomic; right-hand; weight 90g(EC2-B); 5 buttons\
-    Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)
-    Review [EN](https://youtu.be/-5Ksf2Bn-og) & [EN](https://youtu.be/QHxUvNIVy1k)
+- [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html)\
+  ergonomic; right-hand; weight 90g(EC2-B); 5 buttons\
+  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)
+  Review [EN](https://youtu.be/-5Ksf2Bn-og) & [EN](https://youtu.be/QHxUvNIVy1k)
     
-  - [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
-    ambidextrous; 7 buttons; weight 85g\
-    Buy [US](https://www.amazon.com/BenQ-ZOWIE-FK2-Ambidextrous-Mouse/dp/B00QIH1GD4) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-fk2/index.html)\
-    Review [EN](http://www.rocketjumpninja.com/zowie-fk2-review/)
+- [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
+  ambidextrous; 7 buttons; weight 85g\
+  Buy [US](https://www.amazon.com/BenQ-ZOWIE-FK2-Ambidextrous-Mouse/dp/B00QIH1GD4) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-fk2/index.html)\
+  Review [EN](http://www.rocketjumpninja.com/zowie-fk2-review/)
 
 ## Monitors
 
@@ -50,6 +51,11 @@ TODO: link to the list of bad keyboards
 ## PC Components
 
 ## Headphones
+
+## Microphones
+- [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)\
+  the most popular among streamers and content creators
+  Buy [US](https://www.amazon.com/dp/B00N1YPXW2/) [UA](http://ek.ua/BLUE-MICROPHONES-YETI.htm)
 
 ## Audio Systems
 
