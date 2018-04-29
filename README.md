@@ -44,7 +44,7 @@ TODO: link to the list of bad keyboards
 
 - [Zowie EC2-B](https://zowie.benq.com/en/product/mouse/ec/ec2-b.html)\
   ergonomic; right-hand; weight 90g(EC2-B); 5 buttons\
-  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)
+  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-ec2-b-black/index.html)\
   Review [EN](https://youtu.be/-5Ksf2Bn-og) & [EN](https://youtu.be/QHxUvNIVy1k)
     
 - [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
