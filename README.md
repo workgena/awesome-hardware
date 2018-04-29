@@ -54,7 +54,7 @@ TODO: link to the list of bad keyboards
 
 ## Microphones
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)\
-  the most popular among streamers and content creators
+  the most popular among streamers and content creators\
   Buy [US](https://www.amazon.com/dp/B00N1YPXW2/) [UA](http://ek.ua/BLUE-MICROPHONES-YETI.htm)
 
 ## Audio Systems
