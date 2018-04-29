@@ -30,6 +30,10 @@ TODO: link to the list of bad keyboards
   Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)  
   Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
 
+- [Topre Realforce RGB]()\
+  Buy [US](https://www.amazon.com/Topre-Realforce-Premium-Mechanical-Keyboard/dp/B01MSOPQ54/)\
+  Review [EN](https://youtu.be/D9G3jkxaQYs)
+
 ## Mice
 
 [Сравнение мышек Zowie FK2 ZA12 EC-1A EC-2A Logitech G-PRO G403 SteelSeries Rival 300](https://youtu.be/IqIrF-lrR2M)\
