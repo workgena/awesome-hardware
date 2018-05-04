@@ -55,6 +55,9 @@ TODO: link to the list of bad keyboards
 ## Monitors
 
 ## Notebooks
+[System76 Lemur](https://system76.com/laptops/lemur)\
+14"; 1.6kg; IPS matte finish;\
+Review [EN](https://youtu.be/uGPd056xIdY) [EN](https://youtu.be/qLWlaBtIYwI)
 
 ## PC Components
 
