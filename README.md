@@ -53,7 +53,7 @@ TODO: link to the list of bad keyboards
   Review [EN](http://www.rocketjumpninja.com/zowie-fk2-review/)
   
 - [SteelSeries Rival 110](https://steelseries.com/gaming-mice/rival-110)\
-  medium; light weight 88g; safe shape; 6 buttons\
+  medium; light weight 88g; safe shape; budget option; 6 buttons\
   Review [EN](https://youtu.be/b1sHUySB5yA)\
   Buy [US](https://www.amazon.com/gp/product/B075LD4YY6/) [UA](https://hard.rozetka.com.ua/steelseries_62466/p31285055/)
 
