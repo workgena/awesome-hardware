@@ -36,6 +36,10 @@ TODO: link to the list of bad keyboards
   topre switchers; RGB; Actuation Point Changer(1.5/2.2/3 mm)\
   Buy [US](https://www.amazon.com/Topre-Realforce-Premium-Mechanical-Keyboard/dp/B01MSOPQ54/)\
   Review [EN](https://youtu.be/D9G3jkxaQYs)
+  
+- [Adesso Tru-Form 450 – Ergonomic Touchpad Keyboard](https://www.adesso.com/product/adesso-tru-form-450-ergonomic-touchpad-keyboard/)\
+  large full-size; curved splitted design; mounted touchpad; wrist rest; similar to MS Ergo 4000(improved in many ways);\
+  Buy [US](https://www.amazon.com/Adesso-AKB-450UB-Tru-form-Touchpad-Keyboard/dp/B071VMG4D7/)
 
 ## Mice
 
