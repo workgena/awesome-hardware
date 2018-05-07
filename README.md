@@ -50,15 +50,15 @@ TODO: link to the list of bad keyboards
   Review [EN](https://youtu.be/D9G3jkxaQYs)
   
 - [Adesso Tru-Form 450 – Ergonomic Touchpad Keyboard](https://www.adesso.com/product/adesso-tru-form-450-ergonomic-touchpad-keyboard/) - also available with trackball\
-  large full-size; curved splitted design; mounted touchpad; wrist rest; similar to MS Ergo 4000(improved in many ways);\
+  large full-size; curved splitted design; mounted touchpad; wrist rest; similar to MS Ergo 4000(improved in many ways); wireless\
   Buy [US](https://www.amazon.com/Adesso-AKB-450UB-Tru-form-Touchpad-Keyboard/dp/B071VMG4D7/)
   
 - [Adesso Tru-Form Media 1150 – Wireless Ergo Mini Keyboard & Mouse](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - also available with trackball\
-  TKL; curverd splitted design; wrist reset; similar to MS Sculpt(improved in some ways);\
+  TKL; curverd splitted design; wrist reset; similar to MS Sculpt(improved in some ways); wireless\
   Buy [US](https://www.amazon.com/Adesso-WKB-1150CB-Multimedia-Combo-Wireless-MK550-Curved/dp/B075GW5XD5/)
   
 - [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
-  66% form factor; ALPS clicky keyswitch technology(not original); TKL;\
+  66% form factor; ALPS clicky keyswitch technology(not original); TKL\
   Review [EN](https://youtu.be/plnCwNSy6JA)\
   Buy [US](https://www.amazon.com/Matias-Mini-Tactile-Pro-Keyboard/dp/B00FW7FHFE)
 
