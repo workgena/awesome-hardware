@@ -22,6 +22,13 @@ TODO: list of bad things, you should avoid
 TODO: describe what is important when ckoosing the best keyboard. What is "key switch"
 TODO: link to the list of bad keyboards
 
+- [IBM Model M Keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) - The legend. Now manufactured only by [Unicimp Inc.](http://www.pckeyboard.com/)\
+  **The Greatest Keyboard of All Time**; *Buckling Spring*;\
+  The very rare version is [SpaceSaver](https://youtu.be/7jroDKhy6Hk) without numpad, almos impossible to find\
+  Review [EN](https://youtu.be/D7wmMZmMinM)\
+  Buy [Unicomp Ultra Classic Model M Black Buckling Spring](https://www.amazon.com/Unicomp-Classic-Buckling-Spring-Keyboard/dp/B01M29PYF4/)
+  
+
 - [Leopold FC660C](http://global.leopold.co.kr/product.php?pcode=fc660c)\
   TKL 60%; Topre switchers; No backlight; wired  
   Buy [US](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495)  
