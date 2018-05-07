@@ -69,7 +69,7 @@ TODO: link to the list of bad keyboards
   
 - [Das Keyboard 4 Professional](https://www.daskeyboard.com/daskeyboard-4-professional/) - highest-quality classic keyboard\
   mechanical Charry MX Blue/Brown switchers; full-size;\
-  Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)
+  Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
   Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
 ## Mice
