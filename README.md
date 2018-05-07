@@ -30,7 +30,7 @@ TODO: link to the list of bad keyboards
 
 - [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
   keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
-  Review [EN](https://youtu.be/w6YLj12s1e4)
+  Review [EN](https://youtu.be/w6YLj12s1e4)\
   Buy [US](https://www.amazon.com/Logitech-Advanced-Wireless-Keyboard-Creative/dp/B0768LTVCQ) [UA](http://ek.ua/LOGITECH-CRAFT.htm)
 
 - [Happy Hacking Professional 2](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)\
