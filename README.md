@@ -66,6 +66,11 @@ TODO: link to the list of bad keyboards
   66% form factor; ALPS clicky keyswitch technology(not original); TKL\
   Review [EN](https://youtu.be/plnCwNSy6JA)\
   Buy [US](https://www.amazon.com/Matias-Mini-Tactile-Pro-Keyboard/dp/B00FW7FHFE)
+  
+- [Das Keyboard 4 Professional](https://www.daskeyboard.com/daskeyboard-4-professional/) - highest-quality classic keyboard\
+  mechanical Charry MX Blue/Brown switchers; full-size;\
+  Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
+  Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
 ## Mice
 
