@@ -29,7 +29,7 @@ TODO: link to the list of bad keyboards
   Buy [Unicomp Ultra Classic Model M Black Buckling Spring](https://www.amazon.com/Unicomp-Classic-Buckling-Spring-Keyboard/dp/B01M29PYF4/)
 
 - [Happy Hacking Professional 2](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)\
-  60% size; without numpad and arrows; Topre switchers; sopport Dvorak Layout;\
+  60% size; without numpad and arrows; Topre switchers; support Dvorak Layout;\
   also available Silent version; browse HHKB keyboards on [EliteKeyboards](http://elitekeyboards.com/products.php?sub=pfu_keyboards)\
   Review [EN](https://youtu.be/amFw45AyQb4)\
   Buy [EN](http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400w)
