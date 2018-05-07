@@ -56,6 +56,11 @@ TODO: link to the list of bad keyboards
 - [Adesso Tru-Form Media 1150 – Wireless Ergo Mini Keyboard & Mouse](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - also available with trackball\
   TKL; curverd splitted design; wrist reset; similar to MS Sculpt(improved in some ways);\
   Buy [US](https://www.amazon.com/Adesso-WKB-1150CB-Multimedia-Combo-Wireless-MK550-Curved/dp/B075GW5XD5/)
+  
+- [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
+  66% form factor; ALPS clicky keyswitch technology(not original); TKL;\
+  Review [EN](https://youtu.be/plnCwNSy6JA)\
+  Buy [US](https://www.amazon.com/Matias-Mini-Tactile-Pro-Keyboard/dp/B00FW7FHFE)
 
 ## Mice
 
