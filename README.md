@@ -23,9 +23,9 @@ TODO: describe what is important when ckoosing the best keyboard. What is "key s
 TODO: link to the list of bad keyboards
 
 - [IBM Model M Keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) - The legend. Now manufactured only by [Unicimp Inc.](http://www.pckeyboard.com/)\
-  **The Greatest Keyboard of All Time**; *Buckling Spring*;
-  The very rare version is SpaceSaver without numpad, almos impossible to find, insave price [Review EN](https://youtu.be/7jroDKhy6Hk)
-  Review [EN](https://youtu.be/D7wmMZmMinM)
+  **The Greatest Keyboard of All Time**; *Buckling Spring*;\
+  The very rare version is [SpaceSaver](https://youtu.be/7jroDKhy6Hk) without numpad, almos impossible to find\
+  Review [EN](https://youtu.be/D7wmMZmMinM)\
   Buy [Unicomp Ultra Classic Model M Black Buckling Spring](https://www.amazon.com/Unicomp-Classic-Buckling-Spring-Keyboard/dp/B01M29PYF4/)
   
 
