@@ -52,7 +52,7 @@ TODO: link to the list of bad keyboards
 - [Realforce 87U](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless) \
   TKL; Topre switchers; Ctrl<->CapsLock placement can be swapped; \
   Available with variant force "30 to 45 gram weighting (letter area), and 55 gram weighting (Esc)" and "All 45 gram weighted" or "All 55 gram weighted"; black and white colors; \
-  [Silent version](https://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless&pid=rf_se170s)
+  [Silent version](https://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless&pid=rf_se170s) \
   Review [EN equal force](https://youtu.be/6kyKw9tMYlc) and [EN variable force weight](https://youtu.be/9Sc4hB6m8-s) \
   Buy [US](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless)
 
