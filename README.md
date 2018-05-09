@@ -88,7 +88,7 @@ TODO: link to the list of bad keyboards
   ergonomic; medium size; right-hand; weight 94g; 5 buttons\
   The EC1-A/EC2-A is outdated and Zowie relesed newer version EC1-B/EC2-B they have some [issues](https://github.com/workgena/awesome-hardware/issues/27)
   Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](http://ek.ua/prices/zowie-ec2-a/) \
-  Review [EN](https://youtu.be/QHxUvNIVy1k) & [EC2-B series](https://youtu.be/-5Ksf2Bn-og) \
+  Review [EN](https://youtu.be/QHxUvNIVy1k) & [EC2-B series](https://youtu.be/-5Ksf2Bn-og)
     
 - [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
   ambidextrous; 7 buttons; weight 85g\
