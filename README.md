@@ -85,10 +85,10 @@ TODO: link to the list of bad keyboards
 [The Best Mouse for Laptops](https://youtu.be/tNCwvihWO78)
 
 - [Zowie EC2-A](https://zowie.benq.com/en/product/mouse/ec/ec2-a.html)\
-  ergonomic; right-hand; weight 93g; 5 buttons\
-  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](http://ek.ua/prices/zowie-ec2-a/)\
-  Review [EN](https://youtu.be/QHxUvNIVy1k) & [EN EC-B series](https://youtu.be/-5Ksf2Bn-og)
+  ergonomic; medium size; right-hand; weight 94g; 5 buttons\
   The EC1-A/EC2-A is outdated and Zowie relesed newer version EC1-B/EC2-B they have some [issues](https://github.com/workgena/awesome-hardware/issues/27)
+  Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](http://ek.ua/prices/zowie-ec2-a/) \
+  Review [EN](https://youtu.be/QHxUvNIVy1k) & [EC2-B series](https://youtu.be/-5Ksf2Bn-og) \
     
 - [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
   ambidextrous; 7 buttons; weight 85g\
