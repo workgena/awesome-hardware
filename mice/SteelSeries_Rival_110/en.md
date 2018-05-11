@@ -4,6 +4,8 @@ The new incarnation of Rival 100. This Rival 110 has better materials, scroll an
 
 ![img](purchase-gallery-image-rival-110-hero.png__1850x800_q100_crop-scale_optimize_subsampling-2.png?style=centerme)
 
+## Why is it awesome?
+SteelSeries Rival 110 has **good safe shape**, **light weight**, normal build quality and good sensor. Thus, Rival 110 can be recommended to most people. As well as Rival 310, Sensei 310 and Rival 600.
 
 ## What's good?
 - Good sensor
