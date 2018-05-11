@@ -1,6 +1,6 @@
 # [SteelSeries Rival 110](https://steelseries.com/gaming-mice/rival-110)
 
-The new incarnation of Rival 100. This Rival 110 has better materials, scroll and new sensor. Noticable change is the sensor - lift up distance. In old 100 version it was high(about 3 mm), newer one has ~1.5 mm. Build qualiti is better, but still not good enough.
+The new incarnation of Rival 100. This Rival 110 has better materials, scroll and new sensor. Noticable change is the sensor - lift up distance. In old 100 version it was high(about 3 mm), newer one has ~1.5 mm. Build quality is better, but still not good enough.
 
 ![img](purchase-gallery-image-rival-110-hero.png__1850x800_q100_crop-scale_optimize_subsampling-2.png?style=centerme)
 
