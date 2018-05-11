@@ -14,9 +14,9 @@ The new incarnation of Rival 100. This Rival 110 has better materials, scroll an
 - build quality could be better, avarage lifitime 1-3 year(normal for modern mice)
 - Meterial on the sides may be a bit slippy for some people
 - scroll is hard to press
-- CPI more then 3,000 can couse cursors trembling
+- CPI more then 3,000 can cause cursors trembling
 
-## Specs and features
+## Important specs
 - TrueMove1 optical sensor (modified 3330)
 - safe shape
 - right hand
