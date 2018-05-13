@@ -79,7 +79,7 @@ TODO: link to the list of bad keyboards
   Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
   Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
-- [Qisan MagicForce 68](.) - 60% size; most recommended budget mechanical keyboard; various mechanical switchers; RGB
+- [Qisan MagicForce 68](.) - 65% size; most recommended budget mechanical keyboard; various mechanical switchers; LED; has dedicated arrows
 
 ## Mice
 
