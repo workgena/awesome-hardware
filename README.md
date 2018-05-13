@@ -95,10 +95,8 @@ TODO: link to the list of bad keyboards
   Buy [US](https://www.amazon.com/BenQ-ZOWIE-FK2-Ambidextrous-Mouse/dp/B00QIH1GD4) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-fk2/index.html)\
   Review [EN](http://www.rocketjumpninja.com/zowie-fk2-review/)
   
-- [SteelSeries Rival 110](https://steelseries.com/gaming-mice/rival-110)\
+- [SteelSeries Rival 110](./mice/SteelSeries_Rival_110/en.md)\
   medium; light weight 88g; safe shape; budget option; 6 buttons\
-  Review [EN](https://youtu.be/b1sHUySB5yA)\
-  Buy [US](https://www.amazon.com/gp/product/B075LD4YY6/) [UA](https://hard.rozetka.com.ua/steelseries_62466/p31285055/)
 
 ## Monitors
 
