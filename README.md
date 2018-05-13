@@ -79,7 +79,7 @@ TODO: link to the list of bad keyboards
   Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
   Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
-- [Qisan MagicForce 68](.) - 65% size; most recommended budget mechanical keyboard; various mechanical switchers; LED; has dedicated arrows
+- [Qisan MagicForce 68](./keyboards/qisan_magicforce_68/en.md) - 65% size; most recommended budget mechanical keyboard; various mechanical switchers; LED; has dedicated arrows
 
 ## Mice
 
@@ -97,8 +97,7 @@ TODO: link to the list of bad keyboards
   Buy [US](https://www.amazon.com/BenQ-ZOWIE-FK2-Ambidextrous-Mouse/dp/B00QIH1GD4) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-fk2/index.html)\
   Review [EN](http://www.rocketjumpninja.com/zowie-fk2-review/)
   
-- [SteelSeries Rival 110](./mice/SteelSeries_Rival_110/en.md)\
-  medium; light weight 88g; safe shape; budget option; 6 buttons\
+- [SteelSeries Rival 110](./mice/SteelSeries_Rival_110/en.md) - medium; light weight 88g; safe shape; budget option; 6 buttons
 
 ## Monitors
 
