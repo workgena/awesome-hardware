@@ -79,6 +79,8 @@ TODO: link to the list of bad keyboards
   Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
   Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
+- [Qisan MagicForce 68](.) - 60% size; most recommended budget mechanical keyboard; various mechanical switchers; RGB
+
 ## Mice
 
 [Сравнение мышек Zowie FK2 ZA12 EC-1A EC-2A Logitech G-PRO G403 SteelSeries Rival 300](https://youtu.be/IqIrF-lrR2M)\
