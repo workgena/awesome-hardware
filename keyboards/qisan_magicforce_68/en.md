@@ -29,6 +29,7 @@ The compact size and the key layout are the key points. Despite being almost 60%
 - no LED backlight in cheapest version
 
 ## Important specs
+- 13.4 x 4.1 x 1.6 inches (337 x 104 x 37 mm)
 - Detachable cable
 - Single color LED backlight
 - Black/White/Silver/Gold colors available
