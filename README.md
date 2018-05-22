@@ -16,9 +16,6 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 ## Keyboards
 
-TODO: describe what is important when ckoosing the best keyboard. What is "key switch"
-TODO: link to the list of bad keyboards
-
 - [IBM Model M Keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) - The legend. Now manufactured only by [Unicimp Inc.](http://www.pckeyboard.com/)\
   **The Greatest Keyboard of All Time**; *Buckling Spring*;\
   The very rare version is [SpaceSaver](https://youtu.be/7jroDKhy6Hk) without numpad, almos impossible to find\
@@ -76,7 +73,7 @@ TODO: link to the list of bad keyboards
   Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
   Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
-- [Qisan MagicForce 68](./keyboards/qisan_magicforce_68/en.md) - 65% size; most recommended budget mechanical keyboard; various mechanical switchers; LED; has dedicated arrows
+List of [all keyboards](./keyboards/index.md) grouped by size and sorted by awesomness.
 
 ## Mice
 
