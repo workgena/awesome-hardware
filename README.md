@@ -69,7 +69,7 @@ The collection of computer hardware and peripherals for professional use, for pr
   Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
   Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
-List of [all keyboards](./keyboards/index.md) grouped by size and sorted by awesomness.
+List of [all keyboards](./keyboards/README.md) grouped by size and sorted by awesomness.
 
 ## Mice
 
