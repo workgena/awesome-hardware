@@ -1,9 +1,6 @@
-# awesome-hardware
-A list of awesome computer Hardware, Accessories and Peripherals.
+# Awesome Hardware
 
-TODO: Write what is list about
-TODO: list of usefull resources/articles/podcasts: https://www.reddit.com/r/hardware/ https://medium.com/statuscode/developer-desk-essentials-what-you-need-at-your-workstation-d1868c5832df
-TODO: list of bad things, you should avoid
+The collection of computer hardware and peripherals for professional use, for programmers, designers, content creators, etc. Tools which are comfortable to use, increase your productivity, and make work on the computer less harmful for health.
 
 ## Contents
 - [Keyboards](#keyboards)
