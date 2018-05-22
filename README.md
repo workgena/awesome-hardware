@@ -46,10 +46,7 @@ The collection of computer hardware and peripherals for professional use, for pr
   Review [EN equal force](https://youtu.be/6kyKw9tMYlc) and [EN variable force weight](https://youtu.be/9Sc4hB6m8-s) \
   Buy [US](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless)
 
-- [Topre Realforce RGB](http://www.realforce.co.jp/en/products/realforce_rgb/index.html)\
-  topre switchers; RGB; Actuation Point Changer(1.5/2.2/3 mm)\
-  Buy [US](https://www.amazon.com/Topre-Realforce-Premium-Mechanical-Keyboard/dp/B01MSOPQ54/)\
-  Review [EN](https://youtu.be/D9G3jkxaQYs)
+- [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
   
 - [Adesso Tru-Form 450 – Ergonomic Touchpad Keyboard](https://www.adesso.com/product/adesso-tru-form-450-ergonomic-touchpad-keyboard/) - also available with trackball\
   large full-size; curved splitted design; mounted touchpad; wrist rest; similar to MS Ergo 4000(improved in many ways); wireless\

@@ -15,6 +15,7 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
 
 - 100% / Full-size Keyboards
   * IBM Model M Keyboard ([Unicomp Ultra Classic](unicomp_ultra_classic/en.md))
+  * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
   * Logitech Craft 
   * Topre Realforce
   * Das Keyboard 4 Professional
