@@ -11,7 +11,6 @@ The 'Ultra Classic' buckling spring keyboard has the same mechanism, feel and la
 > The king and holy grail of all keyboards
 
 ## Why is it awesome?
-
 The only true Buckling Spring keyboard nowadays.
 
 ## What's good?
