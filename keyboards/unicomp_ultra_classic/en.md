@@ -1,4 +1,4 @@
-# Unicomp Ultra Classic Model M Black Buckling Spring
+# Unicomp Ultra Classic Model M
 
 The 'Ultra Classic' buckling spring keyboard has the same mechanism, feel and layout as the original [IBM Model M](https://en.wikipedia.org/wiki/Model_M_keyboard) keyboard.
 
@@ -21,7 +21,7 @@ The only true Buckling Spring keyboard nowadays.
 * not perfect build
 
 # Important specs
-* 75 gram weight force
+* Buckling Spring switchers
 
 ## Review
 [In-Depth review of the Unicomp Model M keyboard](https://youtu.be/4enAm8T26cI) \
