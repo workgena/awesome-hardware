@@ -2,7 +2,7 @@
 
 > The 'Ultra Classic' buckling spring keyboard has the same mechanism, feel and layout as the original [IBM Model M](https://en.wikipedia.org/wiki/Model_M_keyboard) keyboard, but with a smaller footprint.
 
-...img...
+![img](81u8Wrn0oaL._SL1500_.jpg?style=centerme)
 
 > The Model M is also regarded as a timeless and durable piece of hardware.
 
