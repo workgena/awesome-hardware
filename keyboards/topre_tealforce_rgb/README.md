@@ -2,7 +2,7 @@
 
 The highest Hi-End product you can find on the market with unique feature of changing actuation distance.
 
-![img](img.jpg)
+![img](realforce_rgb.jpg?style=centerme)
 
 ## Why is it awesome?
 The keyboard build with Topre switchers and has unique ability of changing actuation distance per key.
