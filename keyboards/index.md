@@ -8,7 +8,7 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
 - 65% Keyboards (with arrows)
   * Leopold FC660C
   * Microsoft Sculpt Ergonomic Desktop
-  * [Qisan MagicForce 68](./keyboards/qisan_magicforce_68/en.md)
+  * [Qisan MagicForce 68](./qisan_magicforce_68/en.md)
 
 - 80% / TKL Keyboards (Tenkeyless)
   * Realforce 87U
