@@ -8,7 +8,7 @@ The highest Hi-End product you can find on the market with unique feature of cha
 The keyboard build with Topre switchers and has unique ability of changing actuation distance per key.
 
 ## What is good?
-* Actuation Point Changer (1.5 / 2.2 / 3mm)
+* Actuation Point Changer (1.5 / 2.2 / 3mm), but not a tactile bump.
 * Topre switchers
 * Build quality
 * Key Shapes Ergonomic Step Sculpture (similar to IMB Model M)
@@ -17,6 +17,7 @@ The keyboard build with Topre switchers and has unique ability of changing actua
 
 ## What is wrong?
 * The feel is a bit different from other Topre keyboards
+* Sounds louder then other Topre's
 * Not PBT keycaps
 * Some LEDs may die soon
 
@@ -29,4 +30,5 @@ Nothing. Price is insane, but this board has no competitors.
 * ABS keycaps with improved key texture
 
 ## Reviews
-[This keyboard is UNLIKE any other! ... Topre Realforce RGB](https://youtu.be/D9G3jkxaQYs)
+[This keyboard is UNLIKE any other! ... Topre Realforce RGB](https://youtu.be/D9G3jkxaQYs)\
+[Realforce RGB Review Complete](https://youtu.be/FP4o3N4n3mE)
