@@ -14,7 +14,7 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
   * Realforce 87U
 
 - 100% / Full-size Keyboards
-  * IBM Model M Keyboard
+  * IBM Model M Keyboard (Unicomp Ultra Classic)
   * Logitech Craft 
   * Topre Realforce
   * Das Keyboard 4 Professional
