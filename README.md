@@ -16,11 +16,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 ## Keyboards
 
-- [IBM Model M Keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard) - The legend. Now manufactured only by [Unicimp Inc.](http://www.pckeyboard.com/)\
-  **The Greatest Keyboard of All Time**; *Buckling Spring*;\
-  The very rare version is [SpaceSaver](https://youtu.be/7jroDKhy6Hk) without numpad, almos impossible to find\
-  Review [EN](https://youtu.be/D7wmMZmMinM)\
-  Buy [Unicomp Ultra Classic Model M Black Buckling Spring](https://www.amazon.com/Unicomp-Classic-Buckling-Spring-Keyboard/dp/B01M29PYF4/)
+- IBM Model M Keyboard ([Unicomp Ultra Classic Model M](./keyboards/unicomp_ultra_classic/en.md))
 
 - [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
   keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
