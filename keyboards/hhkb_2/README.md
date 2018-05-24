@@ -29,7 +29,7 @@ The layout is unique event among other 60% keyboards. Overall feeling of usage i
 Buy "Type-S"-version or use "O-rings" to make keyboard silent. Silent is significantly better experience.
 
 ## Reviews
-[PFU Happy Hacking Keyboard Professional 2 Review](https://youtu.be/amFw45AyQb4)
-[HHKB Pro 2 Type-S: Topre ++](https://youtu.be/SiTQfAU0Kms)
-[BKE Redux Light: Too much of a good thing](https://youtu.be/9KkQ-TN8gY4)
+[PFU Happy Hacking Keyboard Professional 2 Review](https://youtu.be/amFw45AyQb4) \
+[HHKB Pro 2 Type-S: Topre ++](https://youtu.be/SiTQfAU0Kms) \
+[BKE Redux Light: Too much of a good thing](https://youtu.be/9KkQ-TN8gY4) \
 [The HHKB Layout: Revisited](https://youtu.be/-SzDsVA1Kpo)
