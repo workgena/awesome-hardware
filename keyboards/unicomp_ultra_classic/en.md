@@ -1,4 +1,4 @@
-# [Unicomp Ultra Classic White Buckling Spring](http://www.pckeyboard.com/page/category/UltraClassic)
+# [Unicomp Ultra Classic](http://www.pckeyboard.com/page/category/UltraClassic)
 
 The 'Ultra Classic' buckling spring keyboard has the same mechanism, feel and layout as the original [IBM Model M](https://en.wikipedia.org/wiki/Model_M_keyboard) keyboard.
 
