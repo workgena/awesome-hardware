@@ -2,7 +2,7 @@
 
 > Core to HHKB’s design is its compact size, near-symmetrical key layout and cylindrical step sculpted chassis that reduces fatigue from hand movement. Whilst the Topre key switches and the sculpted key caps deliver ultimate precision, efficiency, durability and comfort during prolonged use.
 
-![img](hhkb2.jpg)
+![img](hhkb2.jpg?style=centerme)
 
 The legendary iconic keyboard. It's like Model M in 60% case size. More then 20 years in market. Popular among modding community. Comes in black/white colors and available silent version "Type S".
 
