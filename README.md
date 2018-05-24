@@ -23,7 +23,7 @@ The collection of computer hardware and peripherals for professional use, for pr
   Buy [US](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495)  
   Review [EN](https://youtu.be/dfGBp27H7Bo) [RU](https://youtu.be/mSPNBYC3Ov4)
 
-- [Happy Hacking Professional 2](keyboards/hhkb_2/README.md))
+- [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
 
 - [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
   keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
