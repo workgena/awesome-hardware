@@ -16,7 +16,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 ## Keyboards
 
-- IBM Model M Keyboard ([Unicomp Ultra Classic Model M](./keyboards/unicomp_ultra_classic/en.md))
+- IBM Model M Keyboard ([Unicomp Ultra Classic](./keyboards/unicomp_ultra_classic/en.md))
 
 - [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
   keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
