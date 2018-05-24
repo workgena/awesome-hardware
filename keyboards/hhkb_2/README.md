@@ -4,7 +4,7 @@
 
 ![img](hhkb2.jpg?style=centerme)
 
-The legendary iconic keyboard. It's like Model M in 60% case size. More then 20 years in market. Popular among modding community. Comes in black/white colors and available silent version "Type S".
+The legendary iconic keyboard - like Model M but in 60% case size. More then 20 years in market. Popular among modding community. Comes in black/white colors and available silent version "Type S".
 
 ## Why is it awesome?
 The layout is unique event among other 60% keyboards. Overall feeling of usage is grate.
