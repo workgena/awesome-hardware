@@ -16,7 +16,7 @@ The layout is unique event among other 60% keyboards. Overall feeling of usage i
 * Dip-Switches allow to swap Ctrl <-> CapsLock, and some other buttons
 
 ## What is wrong?
-* arrows-location (Fn + [;'/) is hard to get used to
+* arrows-location (Fn + \[;'/) is hard to get used to
 * overprice
 
 ## Important specs
@@ -26,7 +26,7 @@ The layout is unique event among other 60% keyboards. Overall feeling of usage i
 * Product Weight 530 g
 
 ## Recommendation
-Buy "Type-S"-version or use "O-rings" to make keyboard silent. Silent is significantly better experience.
+Buy "Type-S"-version or use "O-rings" to make keyboard silent, it will be significantly better experience.
 
 ## Reviews
 [PFU Happy Hacking Keyboard Professional 2 Review](https://youtu.be/amFw45AyQb4) \
