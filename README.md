@@ -18,22 +18,18 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 - IBM Model M Keyboard ([Unicomp Ultra Classic](./keyboards/unicomp_ultra_classic/en.md))
 
+- [Leopold FC660C](http://global.leopold.co.kr/product.php?pcode=fc660c)\
+  TKL 60%; Topre switchers; No backlight; wired  
+  Buy [US](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495)  
+  Review [EN](https://youtu.be/dfGBp27H7Bo) [RU](https://youtu.be/mSPNBYC3Ov4)
+
+- [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
+
 - [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
   keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
   Review [EN](https://youtu.be/w6YLj12s1e4)\
   Buy [US](https://www.amazon.com/Logitech-Advanced-Wireless-Keyboard-Creative/dp/B0768LTVCQ) [UA](http://ek.ua/LOGITECH-CRAFT.htm)
 
-- [Happy Hacking Professional 2](https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard)\
-  60% size; without numpad and arrows; Topre switchers; support Dvorak Layout;\
-  also available Silent version; browse HHKB keyboards on [EliteKeyboards](http://elitekeyboards.com/products.php?sub=pfu_keyboards)\
-  Review [EN](https://youtu.be/amFw45AyQb4)\
-  Buy [EN](http://elitekeyboards.com/products.php?sub=pfu_keyboards,hhkbpro2&pid=pdkb400w)
-
-- [Leopold FC660C](http://global.leopold.co.kr/product.php?pcode=fc660c)\
-  TKL 60%; Topre switchers; No backlight; wired  
-  Buy [US](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495)  
-  Review [EN](https://youtu.be/dfGBp27H7Bo) [RU](https://youtu.be/mSPNBYC3Ov4)
-  
 - [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
   TKL; Membrane switchers; no backlight; wireless; low-profile  
   Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)  

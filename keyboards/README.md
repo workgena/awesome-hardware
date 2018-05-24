@@ -3,7 +3,7 @@
 Keyboards grouped by size and sorted by awesomeness. The selection criteria are: comfort, features, programmability, switchers type. 100%-size keyboards are remnant of the past. If you need numpad you should by the separate "Number Pad Keyboard". But still, below you will find some full-size keyboards only because they have some really unique and awesome features. Wrist reset is good addition, better to buy separately.
 
 - 60% / Compact Keyboards
-  * Happy Hacking Professional 2
+  * [Happy Hacking Professional 2](hhkb_2/README.md)
 
 - 65% Keyboards (with arrows)
   * Leopold FC660C
