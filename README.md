@@ -19,14 +19,10 @@ The collection of computer hardware and peripherals for professional use, for pr
 - IBM Model M Keyboard ([Unicomp Ultra Classic](./keyboards/unicomp_ultra_classic/en.md))
 - [Leopold FC660C](keyboards/leopold_fc660c/README.md)
 - [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
-- [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
-  keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
-  Review [EN](https://youtu.be/w6YLj12s1e4)\
-  Buy [US](https://www.amazon.com/Logitech-Advanced-Wireless-Keyboard-Creative/dp/B0768LTVCQ) [UA](http://ek.ua/LOGITECH-CRAFT.htm)
-
+- [Logitech Craft](keyboards/logitech_craft/README.md)
 - [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
-  TKL; Membrane switchers; no backlight; wireless; low-profile  
-  Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)  
+  TKL; Membrane switchers; no backlight; wireless; low-profile
+  Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)
   Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
 
 - [Realforce 87U](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless) \
@@ -37,20 +33,20 @@ The collection of computer hardware and peripherals for professional use, for pr
   Buy [US](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless)
 
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
-  
+
 - [Adesso Tru-Form 450 – Ergonomic Touchpad Keyboard](https://www.adesso.com/product/adesso-tru-form-450-ergonomic-touchpad-keyboard/) - also available with trackball\
   large full-size; curved splitted design; mounted touchpad; wrist rest; similar to MS Ergo 4000(improved in many ways); wireless\
   Buy [US](https://www.amazon.com/Adesso-AKB-450UB-Tru-form-Touchpad-Keyboard/dp/B071VMG4D7/)
-  
+
 - [Adesso Tru-Form Media 1150 – Wireless Ergo Mini Keyboard & Mouse](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - also available with trackball\
   TKL; curverd splitted design; wrist reset; similar to MS Sculpt(improved in some ways); wireless\
   Buy [US](https://www.amazon.com/Adesso-WKB-1150CB-Multimedia-Combo-Wireless-MK550-Curved/dp/B075GW5XD5/)
-  
+
 - [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
   66% form factor; ALPS clicky keyswitch technology(not original); TKL\
   Review [EN](https://youtu.be/plnCwNSy6JA)\
   Buy [US](https://www.amazon.com/Matias-Mini-Tactile-Pro-Keyboard/dp/B00FW7FHFE)
-  
+
 - [Das Keyboard 4 Professional](https://www.daskeyboard.com/daskeyboard-4-professional/) - highest-quality classic keyboard\
   mechanical Charry MX Blue/Brown switchers; full-size;\
   Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
@@ -68,12 +64,12 @@ List of [all keyboards](./keyboards/README.md) grouped by size and sorted by awe
   The EC1-A/EC2-A is outdated and Zowie relesed newer version EC1-B/EC2-B they have some [issues](https://github.com/workgena/awesome-hardware/issues/27) \
   Buy [US](https://www.amazon.com/BenQ-EC2-B-Ergonomic-Gaming-eSports/dp/B0771WQH6X/) [UA](http://ek.ua/prices/zowie-ec2-a/) \
   Review [EN](https://youtu.be/QHxUvNIVy1k) & [EC2-B series](https://youtu.be/-5Ksf2Bn-og)
-    
+
 - [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
   ambidextrous; 7 buttons; weight 85g\
   Buy [US](https://www.amazon.com/BenQ-ZOWIE-FK2-Ambidextrous-Mouse/dp/B00QIH1GD4) [UA](https://www.3ona51.com/ru/gaming-mouses/zowie-fk2/index.html)\
   Review [EN](http://www.rocketjumpninja.com/zowie-fk2-review/)
-  
+
 - [SteelSeries Rival 110](./mice/SteelSeries_Rival_110/en.md) - medium; light weight 88g; safe shape; budget option; 6 buttons
 
 ## Monitors
