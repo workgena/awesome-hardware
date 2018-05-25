@@ -19,14 +19,6 @@ The collection of computer hardware and peripherals for professional use, for pr
 - IBM Model M Keyboard ([Unicomp Ultra Classic](./keyboards/unicomp_ultra_classic/en.md))
 - [Leopold FC660C](keyboards/leopold_fc660c/README.md)
 - [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
-
-- [Leopold FC660C](http://global.leopold.co.kr/product.php?pcode=fc660c)\
-  TKL 60%; Topre switchers; No backlight; wired  
-  Buy [US](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495)  
-  Review [EN](https://youtu.be/dfGBp27H7Bo) [RU](https://youtu.be/mSPNBYC3Ov4)
-
-- [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
-
 - [Logitech Craft](https://www.logitech.com/en-us/product/craft?crid=27) - advanced keyboard with creative input dial\
   keyboard for designers; special feature "input dial" adapts to the app you're using; wireless; low-profile\
   Review [EN](https://youtu.be/w6YLj12s1e4)\
