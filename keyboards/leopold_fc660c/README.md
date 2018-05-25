@@ -2,7 +2,7 @@
 
 The keyboard with grate implementation and Topre switchers, comes in compact 60%-size, but also has dedicated arrow-keys, plus Insert and Delete buttons. If you need as match compact keyboard as possible, but can't thrown away the arrow keys - this keyboard is for you. The rating of this keyboard among 65% keyboards is **Top-1**.
 
-![img](.)
+![img](img.jpg?style=centerme)
 
 Version with Cherry MX switchers is [LEOPOLD FC660M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3546). The Topre version, as always, is far better
 then Cherry, read the [comparison](https://deskthority.net/review-f45/leopold-fc660c-and-fc660m-side-by-side-comparison-t6443.html).
