@@ -20,6 +20,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Leopold FC660C](keyboards/leopold_fc660c/README.md)
 - [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
 - [Logitech Craft](keyboards/logitech_craft/README.md)
+- [Realforce 87U](keyboards/realforce_87u/README.md)
 - [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
   TKL; Membrane switchers; no backlight; wireless; low-profile
   Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)
