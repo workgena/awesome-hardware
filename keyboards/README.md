@@ -11,7 +11,7 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
   * [Qisan MagicForce 68](qisan_magicforce_68/en.md)
 
 - 80% / TKL Keyboards (Tenkeyless)
-  * Realforce 87U
+  * [Realforce 87U](realforce_87u/README.md)
 
 - 100% / Full-size Keyboards
   * IBM Model M Keyboard ([Unicomp Ultra Classic](unicomp_ultra_classic/en.md))
