@@ -21,17 +21,11 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
 - [Logitech Craft](keyboards/logitech_craft/README.md)
 - [Realforce 87U](keyboards/realforce_87u/README.md)
+
 - [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
   TKL; Membrane switchers; no backlight; wireless; low-profile
   Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)
   Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
-
-- [Realforce 87U](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless) \
-  TKL; Topre switchers; Ctrl<->CapsLock placement can be swapped; \
-  Available with variant force "30 to 45 gram weighting (letter area), and 55 gram weighting (Esc)" and "All 45 gram weighted" or "All 55 gram weighted"; black and white colors; \
-  [Silent version](https://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless&pid=rf_se170s) \
-  Review [EN equal force](https://youtu.be/6kyKw9tMYlc) and [EN variable force weight](https://youtu.be/9Sc4hB6m8-s) \
-  Buy [US](http://elitekeyboards.com/products.php?sub=topre_keyboards,rftenkeyless)
 
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
 
