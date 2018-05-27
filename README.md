@@ -21,6 +21,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
 - [Logitech Craft](keyboards/logitech_craft/README.md)
 - [Realforce 87U](keyboards/realforce_87u/README.md)
+- [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
 
 - [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
   TKL; Membrane switchers; no backlight; wireless; low-profile
@@ -41,11 +42,6 @@ The collection of computer hardware and peripherals for professional use, for pr
   66% form factor; ALPS clicky keyswitch technology(not original); TKL\
   Review [EN](https://youtu.be/plnCwNSy6JA)\
   Buy [US](https://www.amazon.com/Matias-Mini-Tactile-Pro-Keyboard/dp/B00FW7FHFE)
-
-- [Das Keyboard 4 Professional](https://www.daskeyboard.com/daskeyboard-4-professional/) - highest-quality classic keyboard\
-  mechanical Charry MX Blue/Brown switchers; full-size;\
-  Review [EN](https://youtu.be/brab29A79w4) [RU](https://youtu.be/uQDL2VvZzvk)\
-  Buy [US](https://www.amazon.com/Das-Keyboard-Professional-Mechanical-DASK4MKPROCLI/dp/B00JI2APZQ)
 
 List of [all keyboards](./keyboards/README.md) grouped by size and sorted by awesomness.
 

@@ -4,25 +4,19 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
 
 - 60% / Compact Keyboards
   * [Happy Hacking Professional 2](hhkb_2/README.md)
-
 - 65% Keyboards (with arrows)
   * [Leopold FC660C](leopold_fc660c/README.md)
   * Microsoft Sculpt Ergonomic Desktop
   * [Qisan MagicForce 68](qisan_magicforce_68/en.md)
-
 - 80% / TKL Keyboards (Tenkeyless)
   * [Realforce 87U](realforce_87u/README.md)
-
 - 100% / Full-size Keyboards
-  * IBM Model M Keyboard ([Unicomp Ultra Classic](unicomp_ultra_classic/en.md))
+  * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the *IBM Model M*
   * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
+  * [Das Keyboard 4 Professional](das_keyboard_4_professional/README.md)
   * [Logitech Craft](logitech_craft/README.md)
-  * Topre Realforce
-  * Das Keyboard 4 Professional
-
 - Non-standard Size Keyboards
   * ...
-
 
 TODO: unrecommended list
 TODO: good/controversial list
