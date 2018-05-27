@@ -29,6 +29,10 @@ Nothing. Price is insane, but this board has no competitors.
 * RGB backlight
 * ABS keycaps with improved key texture
 
+## Recommendations
+If you are looking for the true Topre-experience, then you'd better to take **Realforce 87U/104U**.
+87U and 104U both have PBT keybaps and more pleasant to use, but no backlight at all.
+
 ## Reviews
 [This keyboard is UNLIKE any other! ... Topre Realforce RGB](https://youtu.be/D9G3jkxaQYs)\
 [Realforce RGB Review Complete](https://youtu.be/FP4o3N4n3mE)
