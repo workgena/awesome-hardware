@@ -22,7 +22,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Logitech Craft](keyboards/logitech_craft/README.md)
 - [Realforce 87U](keyboards/realforce_87u/README.md)
 - [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
-- [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)\
+- [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
 - [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
   66% form factor; ALPS clicky keyswitch technology(not original); TKL\
