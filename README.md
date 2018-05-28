@@ -22,22 +22,8 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Logitech Craft](keyboards/logitech_craft/README.md)
 - [Realforce 87U](keyboards/realforce_87u/README.md)
 - [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
-
-- [Microsoft Sculpt Ergonomic Desktop](https://www.microsoft.com/accessories/en-us/products/keyboards/sculpt-ergonomic-desktop/l5v-00001)\
-  TKL; Membrane switchers; no backlight; wireless; low-profile
-  Buy [US](https://www.amazon.com/Microsoft-Ergonomic-Wireless-Keyboard-L5V-00001/dp/B00CYX54C0)
-  Review [EN](https://youtu.be/p9x18sz8hUc) [RU](https://youtu.be/8NQRQyNs6X4)
-
+- [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
-
-- [Adesso Tru-Form 450 – Ergonomic Touchpad Keyboard](https://www.adesso.com/product/adesso-tru-form-450-ergonomic-touchpad-keyboard/) - also available with trackball\
-  large full-size; curved splitted design; mounted touchpad; wrist rest; similar to MS Ergo 4000(improved in many ways); wireless\
-  Buy [US](https://www.amazon.com/Adesso-AKB-450UB-Tru-form-Touchpad-Keyboard/dp/B071VMG4D7/)
-
-- [Adesso Tru-Form Media 1150 – Wireless Ergo Mini Keyboard & Mouse](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - also available with trackball\
-  TKL; curverd splitted design; wrist reset; similar to MS Sculpt(improved in some ways); wireless\
-  Buy [US](https://www.amazon.com/Adesso-WKB-1150CB-Multimedia-Combo-Wireless-MK550-Curved/dp/B075GW5XD5/)
-
 - [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
   66% form factor; ALPS clicky keyswitch technology(not original); TKL\
   Review [EN](https://youtu.be/plnCwNSy6JA)\
