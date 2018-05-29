@@ -9,7 +9,7 @@ If you are looking for a slitted curved keyboard with low-profile keys - this is
 ## Why is it awesome?
 Possibly, the most **healthy keyboard** on the market today.
 This keyboard is recommended for everyone who feels pain or hand fatigue.
-Split keyset design. Good implementation and build. Despite being member and low profile, this keyboard feels pretty awesome while typing.
+Split keyset design. Good implementation and build. Despite being membrane and low profile, this keyboard feels pretty awesome while typing.
 
 ## What is good?
 - Full-size arrow keys (Up/Down)
