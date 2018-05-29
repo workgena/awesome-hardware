@@ -6,7 +6,7 @@ The biggest advantage of this keyboard, and why it is so heavily recommended, is
 
 ## Why is it awesome?
 Comes with all kinds of switch-type and family.
-The compact size and the key layout are the key points: dedicated arrow keys and Insert, Delete, PgUp and PgDown keys. DIP-switchers on the bottom allows to swap CapsLock <-> Ctrl.
+The compact size and the key layout are the key points: dedicated arrow keys and Insert, Delete, PgUp and PgDown keys. DIP-switchers on the bottom allows to swap CapsLock <-> Ctrl. Can be easily modded, as the keyboard is only held together by six screws, and uses Cherry layout PCBs.
 
 ## What's good?
 - Form factor, compact keyboard with arrows
