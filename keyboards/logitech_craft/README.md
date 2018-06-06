@@ -11,7 +11,6 @@ A unique Input Dial.
 > The creative input dial adapts to the app you're using — giving you instant access to specific functions for the task at hand.
 > The touch-sensitive control lets you feel your way through your creation — for a more efficient and immersive workflow.
 
-
 ## What is good?
 * **The Crown** - Creative input dial
 * Key shape and tactile feel

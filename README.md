@@ -24,10 +24,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
 - [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
-- [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
-  66% form factor; ALPS clicky keyswitch technology(not original); TKL\
-  Review [EN](https://youtu.be/plnCwNSy6JA)\
-  Buy [US](https://www.amazon.com/Matias-Mini-Tactile-Pro-Keyboard/dp/B00FW7FHFE)
+- [Matias Mini Tactile Pro](keyboards/matias_mini_tactile_pro/README.md)
 
 List of [all keyboards](./keyboards/README.md) grouped by size and sorted by awesomness.
 
