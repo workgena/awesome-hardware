@@ -25,7 +25,6 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
 - [Matias Mini Tactile Pro](keyboards/matias_mini_tactile_pro/README.md)
-- [Matias Mini Tactile Pro](http://matias.ca/minitactilepro/mac/)\
 
 List of [all keyboards](./keyboards/README.md) grouped by size and sorted by awesomness.
 
