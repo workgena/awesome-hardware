@@ -38,7 +38,8 @@ The form factor is like 60% but with dedicated arrows and Insert/Delete buttons.
 
 ## Reviews
 [FC660C Review - It's Just That Good](https://youtu.be/dfGBp27H7Bo) \
-[RU: Leopold FC660C by GeekBoards.ru | Мммммм....](https://youtu.be/mSPNBYC3Ov4)
+[RU: Leopold FC660C by GeekBoards.ru | Мммммм....](https://youtu.be/mSPNBYC3Ov4) \
+[Leopold FC660C Topre Keyboard - Part 1](https://youtu.be/E8IfxwV_fHg)
 
 ## Buy
 [Leopold FC660C with Topre](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1495) \
