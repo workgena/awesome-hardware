@@ -11,6 +11,15 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
   * [Qisan MagicForce 68](qisan_magicforce_68/en.md)
 - 80% / TKL Keyboards (Tenkeyless)
   * [Realforce 87U](realforce_87u/README.md)
+    - List of great TKL keyboards, but without unique features:
+      - [Logitech G Pro Tenkeyless Mechanical Gaming Keyboard](https://www.logitechg.com/en-us/product/pro-gaming-keyboard)
+      - [Masterkeys Pro S](http://www.coolermaster.com/peripheral/keyboards/masterkeys-pro-s/)
+      - [Filco Ninja Majestouch-2](http://www.diatec.co.jp/en/list.php)
+      - [WASD CODE 87-Key Mechanical Keyboard](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard-2545.html)
+      - [Ducky One 2 series](http://www.duckychannel.com.tw/en/keyboard.html)
+      - [Razer BlackWidow Tournament Edition Chroma V2](https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-tournament-edition-chroma-v2)
+      - [Bloody B930 Light Strike TKL TenKeyLess](https://www.bloody.com/usa/product.php?pid=11&id=165)
+      - [and more...](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=27)
 - 100% / Full-size Keyboards
   * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the *IBM Model M*
   * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
