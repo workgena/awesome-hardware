@@ -11,7 +11,7 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
   * [Qisan MagicForce 68](qisan_magicforce_68/en.md)
 - 80% / TKL Keyboards (Tenkeyless)
   * [Realforce 87U](realforce_87u/README.md)
-  * List of great TKL keyboards, but without unique features:
+  * List of great TKL keyboards, with similar features:
     - [Logitech G Pro Tenkeyless Mechanical Gaming Keyboard](https://www.logitechg.com/en-us/product/pro-gaming-keyboard)
     - [Masterkeys Pro S](http://www.coolermaster.com/peripheral/keyboards/masterkeys-pro-s/)
     - [Filco Ninja Majestouch-2](http://www.diatec.co.jp/en/list.php)
