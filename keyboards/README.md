@@ -14,6 +14,7 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
   * List of great TKL keyboards, with similar features:
     - [Logitech G Pro Tenkeyless Mechanical Gaming Keyboard](https://www.logitechg.com/en-us/product/pro-gaming-keyboard)
     - [Masterkeys Pro S](http://www.coolermaster.com/peripheral/keyboards/masterkeys-pro-s/)
+    - [Varmilo VA87M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3895)
     - [Filco Ninja Majestouch-2](http://www.diatec.co.jp/en/list.php)
     - [WASD CODE 87-Key Mechanical Keyboard](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard-2545.html)
     - [Ducky One 2 series](http://www.duckychannel.com.tw/en/keyboard.html)
