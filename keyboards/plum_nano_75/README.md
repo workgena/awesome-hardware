@@ -2,7 +2,7 @@
 
 Compact 60% keyboard build with Electro-Capacitive switchers - cheaper Topre clones. Som users like this switchers even better then Topre. Unlike other 60% keyboarsd, this one comes with F1-F12 keys.
 
-![img](https://www.nizkeyboard.com/wp-content/uploads/2017/08/2.jpg)
+![img](plum_nano_75.jpg?style=centerme)
 
 Notice: You can find this keyboard with Nopoo mechanical switch(Cherry MX clone), it calls **Noppoo nano 75s**. Check the review [Noppoo nano 75 blue switches unboxing](https://youtu.be/KPTsWnAShDQ), [Noppoo Nano 75 S review and mod by u/Draxor](https://imgur.com/a/UV0Eg) and [Reddit discussion](https://www.reddit.com/r/MechanicalKeyboards/comments/3lqkxn/review_noppoo_nano_75_s_now_with_more_clear_and/). Niz also sells Full-size and TLK version [here](https://www.nizkeyboard.com/product/pre-ordernew-arrival-bluetooth-usb-ec-keyboard-758487108keys/).
 
