@@ -20,14 +20,14 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
     - [Ducky One 2 series](http://www.duckychannel.com.tw/en/keyboard.html)
     - [Razer BlackWidow Tournament Edition Chroma V2](https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-tournament-edition-chroma-v2)
     - [Bloody B930 Light Strike TKL TenKeyLess](https://www.bloody.com/usa/product.php?pid=11&id=165)
-    - [and more...](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=27)
 - 100% / Full-size Keyboards
   * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the *IBM Model M*
   * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
   * [Das Keyboard 4 Professional](das_keyboard_4_professional/README.md)
   * [Logitech Craft](logitech_craft/README.md)
 - Non-standard Size Keyboards
-  * ...
+  * [Adesso Tru-Form Media 1150 – Wireless Ergo Mini](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - the quality is doubtful
+  * [ErgoDox EZ](https://ergodox-ez.com/) - is a different kind of keyboards
+  * [Matias Ergo Pro](https://matias.ca/ergopro/pc/)
 
 TODO: unrecommended list
-TODO: good/controversial list
