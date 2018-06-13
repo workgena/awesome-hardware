@@ -1,4 +1,4 @@
-[Razer DeathAdder Elite](https://www.razer.com/gaming-mice/razer-deathadder-elite)
+# [Razer DeathAdder Elite](https://www.razer.com/gaming-mice/razer-deathadder-elite)
 
 > The World’s Best Gaming Mouse
 
