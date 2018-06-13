@@ -2,7 +2,7 @@
 
 > The World’s Best Gaming Mouse
 
-![img](https://i2.rozetka.ua/goods/2351806/razer_rz01_02010100_r3g1_images_2351806465.jpg)
+![img](da_elite.jpg?style=centerme)
 
 DeathAdder is simply the best successor of iconic **Microsoft IntelliMouse 3.0A**. Razer have been produced this mouse over 10 years by now. DeathAdder Elite is considered as the most advanced and ergonomic Razer's mouse. And it really is!
 
@@ -10,10 +10,10 @@ It is hard to find a person who don't like this mouse once tried.
 
 Being the most popular product in the World has one drawback - every manufacturer wants to make own clone. And they did. DeathAdder has tons of competitors, some of them are really good and cheaper. But the Elite is at the top.
 
-Notice. The **Razer Mamba** has different shape, it is heavy. But the new "Mamba HyperFlux" is different story, better shape, reasonable weight. Mamba HyperFlux even better(more comfortable) then DeathAdder Elite.
+ then DeathAdder Elite.Notice. The **Razer Mamba** has different shape, it is heavy. But the new "Mamba HyperFlux" is different story, better shape, reasonable weight. Mamba HyperFlux even better(more comfortable) then DeathAdder Elite.
 
 ## Why is it awesome?
-DeathAdder has been one of the most popular gaming mouses ever since its initial release in 2006. It is comfortable and for every-day usage. The mouse has "everything right".
+DeathAdder has been one of the most popular gaming mouse ever since its initial release in 2006. It is comfortable for every-day usage. The mouse has "everything right".
 
 ## What is good?
 - Shape, materials, buttons, etc.. Mouse is really comfortable.
