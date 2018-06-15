@@ -37,3 +37,4 @@ The angled design make significantly less pressure on carpal tunnel. What it (mo
 
 ## Alternatives
 - [Contour Unimouse](https://www.contourdesign.com/product/unimouse/); review [EN](https://youtu.be/IYagiux_rzU)
+- [Evoluent VerticalMouse 4](https://evoluent.com/products/vm4r/); review [EN](https://youtu.be/4_kA4h-kLpw)
