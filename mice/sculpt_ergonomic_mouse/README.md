@@ -4,11 +4,11 @@
 
 ![img](sculpt_ergonomic_mouse.jpg?style=centerme)
 
-The mouse is different from traditional mice. The "globe" shape and angle make the muse really comfortable for long work sessions.
+The mouse is different from traditional mice. The "globe" shape and angle make the mouse really comfortable for long work sessions.
 This is *Top-1 recommendations* if you care about heals. The mouse is toward to vertical-mice-family, but not totally, it has some angle. So it it still more-or-less traditional mouse. So you will quickly get used to it.
 
 ## Why is it awesome?
-The angled design make significantly less pressure on carpal tunnel. What it (mouse shape) makes - it turns your wrist into a more **anatomically natural position** - then you **elbow and your shoulder tends to relax**.
+The angled design make significantly less pressure on carpal tunnel. What it does - it turns your wrist into a more **anatomically natural position** - then you **elbow and your shoulder tends to relax**.
 
 ## What is good?
 - Overall good mouse: build quality, shape, buttons, scroll, feet, etc,
