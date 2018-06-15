@@ -26,12 +26,15 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
 - [Matias Mini Tactile Pro](keyboards/matias_mini_tactile_pro/README.md)
 
-List of [all keyboards](./keyboards/README.md) grouped by size and sorted by awesomness.
+List of [all keyboards](keyboards/README.md) grouped by size and sorted by awesomness.
 
 ## Mice
 
+- [Microsoft Sculpt Ergonomic Mouse](mice/sculpt_ergonomic_mouse/README.md)
 - [Razer DeathAdder Elite](mice/razer_deathadder/README.md)
 - [SteelSeries Rival 110](mice/SteelSeries_Rival_110/README.md)
+
+Check out list of [all mice](mice/README.md).
 
 ## Monitors
 

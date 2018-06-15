@@ -1,12 +1,24 @@
 # Mice
 
 Most mice are "Gaming", but they are good for office work as well.
-The good mouse is a mouse with such aspects: weight 85-100 g, height: 37-41 mm, shape: ergonomic.
+The good mouse is a mouse with such aspects: weight 85-100 g, height: 34-40 mm, shape: ergonomic.
+
+The "Vertical" shape supports your hand in an upright neutral posture
+that generally avoids forearm twisting.
+Many users, including medical doctors, ergonomists and physical therapists,
+recommends "Vertical" mice.
+
+But do not go to absolutely vertical 90 degrees, it is better about 70-80 degrees.
+One of the best choice is [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md).
+
+Good explanation by Steve Meagher: [The Ergonomics Guy - How To Choose A Mouse](https://youtu.be/Ikzp22bNxOs).
 
 
 Product sorted by awesomeness, but they all good.
 
+- [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md)
 - [Razer DeathAdder Elite](razer_deathadder/README.md)
+- SteelSeries Rival 310
 - [SteelSeries Rival 110](SteelSeries_Rival_110/README.md)
 - [Zowie EC2-A](https://zowie.benq.com/en/product/mouse/ec/ec2-a.html) \
   ergonomic; medium size; right-hand; weight 94g; 5 buttons \
