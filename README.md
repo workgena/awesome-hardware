@@ -16,15 +16,11 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 ## Keyboards
 
-- IBM Model M Keyboard ([Unicomp Ultra Classic](./keyboards/unicomp_ultra_classic/en.md))
 - [Leopold FC660C](keyboards/leopold_fc660c/README.md)
-- [Happy Hacking Professional 2](keyboards/hhkb_2/README.md)
-- [Logitech Craft](keyboards/logitech_craft/README.md)
-- [Realforce 87U](keyboards/realforce_87u/README.md)
-- [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
 - [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
-- [Topre Realforce RGB](keyboards/topre_tealforce_rgb/README.md)
+- [Realforce 87U](keyboards/realforce_87u/README.md)
 - [Matias Mini Tactile Pro](keyboards/matias_mini_tactile_pro/README.md)
+- [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
 
 List of [all keyboards](keyboards/README.md) grouped by size and sorted by awesomness.
 
@@ -32,9 +28,8 @@ List of [all keyboards](keyboards/README.md) grouped by size and sorted by aweso
 
 - [Microsoft Sculpt Ergonomic Mouse](mice/sculpt_ergonomic_mouse/README.md)
 - [Razer DeathAdder Elite](mice/razer_deathadder/README.md)
-- [SteelSeries Rival 110](mice/SteelSeries_Rival_110/README.md)
 
-Check out list of [all mice](mice/README.md).
+List of [all mice](mice/README.md).
 
 ## Monitors
 

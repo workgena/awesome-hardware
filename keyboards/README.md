@@ -1,13 +1,30 @@
 # Awesome Keyboards
 
-Keyboards grouped by size and sorted by awesomeness. The selection criteria are: comfort, features, programmability, switchers type. 100%-size keyboards are remnant of the past. If you need numpad you should by the separate "Number Pad Keyboard". But still, below you will find some full-size keyboards only because they have some really unique and awesome features. Wrist reset is good addition, better to buy separately.
+Keyboards are grouped by size and sorted by awesomeness.
+This list is build with such criterias in mind: comfort, features, programmability, switchers type.
+100%-size keyboards are remnant of the past. Them are not recommended for general use.
+If you need *NumPad* you should by the separate "Number Pad Keyboard".
+But still, below you will find some full-size keyboards only because they have some really unique and awesome features.
+
+Wrist reset is good addition, better to buy separately.
+
+The most valuable products are in 65% and 80%-size category.
+
+If you already feel shoulder/wrist pain it is highly recommended go for split-keyboard-layout, like:
+*Adesso keyboards*,
+*Microsoft Sculpt Ergonomic Desktop*,
+*Matias Ergo Pro*,
+*ErgoDox*,
+*Ultimate Hacking Keyboard*,
+*Mistel Barocco*,
+*Goldtouch ErgoSecure 2.0*
 
 - 60% / Compact Keyboards
   * [Happy Hacking Professional 2](hhkb_2/README.md)
   * [Plum Nano 75](plum_nano_75/README.md)
-- 65% Keyboards (with arrows)
+  * Mistel Barocco
+- 65% / Keyboards (with arrows)
   * [Leopold FC660C](leopold_fc660c/README.md)
-  * [Microsoft Sculpt Ergonomic Desktop](sculpt_ergonomic_desktop/README.md)
   * [Matias Mini Tactile Pro](matias_mini_tactile_pro/README.md)
   * [Qisan MagicForce 68](qisan_magicforce_68/en.md)
 - 80% / TKL Keyboards (Tenkeyless)
@@ -22,13 +39,16 @@ Keyboards grouped by size and sorted by awesomeness. The selection criteria are:
     - [Razer BlackWidow Tournament Edition Chroma V2](https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-tournament-edition-chroma-v2)
     - [Bloody B930 Light Strike TKL TenKeyLess](https://www.bloody.com/usa/product.php?pid=11&id=165)
 - 100% / Full-size Keyboards
-  * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the *IBM Model M*
-  * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
   * [Das Keyboard 4 Professional](das_keyboard_4_professional/README.md)
+  * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the **IBM Model M**
+  * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
   * [Logitech Craft](logitech_craft/README.md)
 - Non-standard Size Keyboards
+  * [Microsoft Sculpt Ergonomic Desktop](sculpt_ergonomic_desktop/README.md)
   * [Adesso Tru-Form Media 1150 – Wireless Ergo Mini](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - the quality is doubtful
-  * [ErgoDox EZ](https://ergodox-ez.com/) - is a different kind of keyboards
   * [Matias Ergo Pro](https://matias.ca/ergopro/pc/)
+  * [ErgoDox EZ](https://ergodox-ez.com/) - is a different kind of keyboards
+  * [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)
+  * [Goldtouch ErgoSecure 2.0 Smart Card Keyboard](https://shop.goldtouch.com/products/goldtouch-ergosecure-2-0-smart-card-keyboard)
+  * [Kinesis Maxim for PC](https://www.kinesis-ergo.com/shop/maxim-for-pc/)
 
-TODO: unrecommended list
