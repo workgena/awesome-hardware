@@ -3,15 +3,20 @@
 Most mice are "Gaming", but they are good for office work as well.
 The good mouse is a mouse with such aspects: weight 85-100 g, height: 34-40 mm, shape: ergonomic.
 
+If you feel pain in right shoulder/wrist - it's time to get a "Vertical Mouse".
+
 The "Vertical" shape supports your hand in an upright neutral posture
 that generally avoids forearm twisting.
 Many users, including medical doctors, ergonomists and physical therapists,
 recommends "Vertical" mice.
 
-But do not go to absolutely vertical 90 degrees, it is better about 70-80 degrees.
+But do not go to absolutely vertical 90 degrees, it is better about 45-70 degrees.
 One of the best choice is [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md).
 
 Good explanation by Steve Meagher: [The Ergonomics Guy - How To Choose A Mouse](https://youtu.be/Ikzp22bNxOs).
+
+
+*Tip: Many cheap clone-mice can be found on AliExpress - buy the cheapest clone of your choice. It if fits your hand - then buy real original quality product.*
 
 
 Product sorted by awesomeness, but they all good.
