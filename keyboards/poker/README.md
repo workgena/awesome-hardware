@@ -1,10 +1,14 @@
+Table of content:
+- [iKBC New Poker II](#ikbc-new-poker-ii)
+- [Vortex POK3R](#vortex-pok3r)
+
 # [iKBC New Poker II](https://www.ikbckeyboard.com/product-page/new-poker-ii-black)
 
 Probably the most known and customizable 60% size keyboard, remarkably good product with history.
 
 > The New Poker II is a compact, aesthetically pleasing and highly functional keyboard.
 
-![img](https://static.wixstatic.com/media/bfd495_d96bb6fbecf3499983cf79f493f42162~mv2_d_3000_2000_s_2.jpg/v1/fill/w_1960,h_1102,q_85,usm_0.66_1.00_0.01/bfd495_d96bb6fbecf3499983cf79f493f42162~mv2_d_3000_2000_s_2.jpg)
+![img](poker_ii.jpg?style=centerme)
 
 **New Poker II** equipped with *Cherry MX* Switches, available in Red, Brown and Blue. Case color: Black or White ([mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=483)). This keyboard is fully programmable via hardware so no software is required.
 
@@ -46,6 +50,8 @@ Some keys are not programmable(keys assigned to layouts); some(like Fn) can be r
 # [Vortex POK3R](http://www.vortexgear.tw/vortex2_3.asp?kind=47&kind2=220)
 
 > Pok3r is a programmable 60% keyboard from KBT. It is the successor to the original KBC Poker II. Versions are available with single color or RGB back lighting (with doubleshot ABS keycaps) and without back lighting (with printed PBT keycaps) [@deskthority](https://deskthority.net/wiki/Vortex_Pok3r)
+
+![img](pok3r.jpg?style=centerme)
 
 **Notice.** *Pok3r* doesn't have [Workman Layout](http://workmanlayout.org/), but the *New Poker II* has it. Both keyboards are very similar and has almost identical functionality.
 
