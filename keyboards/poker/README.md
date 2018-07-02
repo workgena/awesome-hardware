@@ -88,10 +88,10 @@ The default arrow mapping is different from Poker II, but of cause it is fully p
 - [Vortex RGB POK3R - Review and features](https://youtu.be/ppeti2j4qBE)
 
 ## Alternatives
+- [Mistel Barocco](../mistel_barocco/README.md) / programmable / split design
 - [KBParadise V60 Type R](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3918) / [fully programmable via software](https://youtu.be/47G_m3M8P8I) / has RGB version / Cherry MX family
 - [KBParadise V60](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3584) / not programmable / Switchers: ALPS, Cherry MX, Matias, Kailh BOX, Fukka
-- [Mistel Barocco](../mistel_barocco/README.md) / programmable / split design
+- AcGam AG6X / programmable via software / very cheap, quality is doubtful / review [EN](https://youtu.be/miJfZWqKEOw)
 - [Ducky Mini](http://www.duckychannel.com.tw/en/ducky-mini/) / not programmable / review [EN](https://youtu.be/2fhi1K1NCsw)
 - Filco Majestouch Minila Air / not programmable, only some DIP functions / review [EN](https://youtu.be/B6iX9N_-o-g) [EN](https://youtu.be/e1NwGeinRj0)
 - [Tex Yoda II](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=515) / programmable via [software](https://yoda2.tex-design.com.tw/#layout) / review [EN](https://youtu.be/GyKQfuBmsyg) [Text EN](https://medium.com/@takezoe/tex-yoda-ii-mechanical-keyboard-with-trackpoint-review-6b4adfc30df2)
-- AcGam AG6X / programmable via software / very cheap, quality is doubtful / review [EN](https://youtu.be/miJfZWqKEOw)
