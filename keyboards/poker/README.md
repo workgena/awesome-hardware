@@ -72,7 +72,6 @@ The default arrow mapping is different from Poker II, but of cause it is fully p
 
 ## Important specs
 - Weight: 1.3 kg
-- Keycap Material: ABS
 
 ## Recommendations
 - Read the [difference between Pok3r and Poker II](https://www.reddit.com/r/MechanicalKeyboards/comments/6cq2sk/poker_ii_vs_pok3r_vs_new_poker_ii_programming/)
