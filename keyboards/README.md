@@ -21,6 +21,7 @@ If you already feel shoulder/wrist pain it is highly recommended go for split-ke
 
 - 60% / Compact Keyboards
   * [Happy Hacking Professional 2](hhkb_2/README.md)
+  * [Poker keyboards](poker/README.md)
   * [Plum Nano 75](plum_nano_75/README.md)
   * Mistel Barocco
 - 65% / Keyboards (with arrows)
