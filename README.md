@@ -18,6 +18,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 - [Leopold FC660C](keyboards/leopold_fc660c/README.md)
 - [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
+- [Poker keyboards](keyboards/poker/README.md)
 - [Realforce 87U](keyboards/realforce_87u/README.md)
 - [Matias Mini Tactile Pro](keyboards/matias_mini_tactile_pro/README.md)
 - [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
