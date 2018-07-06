@@ -26,7 +26,7 @@ All reviewers compare Philips SHP9500s to Sennheiser HD 600, and they are very c
 - Detachable cable
 
 ## Recommendation
-Best suitable for medium/large head. For small head, look for other headphones.
+Best suitable for medium/large head. For small head, look for other headphones. \
 Good combination with [V Moda Gaming Mic Cable](https://v-moda.com/products/boompro-microphone).
 
 ## Reviews
