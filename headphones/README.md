@@ -18,7 +18,7 @@ Therefore the criteria for awesomeness are:
   - KOSS KSC75
   - Status Audio CB-1
 * ~$100
-  - Philips HiFi Stereo Headphones (this price only on aliexpress)
+  - [Philips HiFi Stereo Headphones](philips_shp9500s/README.md)
   - Audio Technica ATH-M40x
   - Takstar HI 2050
   - Shure SRH440
