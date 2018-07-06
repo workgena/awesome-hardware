@@ -6,11 +6,11 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Keyboards](#keyboards)
 - [Mice](#mice)
 - [Monitors](#monitors)
-- [Notebooks](#notebooks)
-- [PC Components](#pc-components)
 - [Headphones](#headphones)
 - [Microphones](#microphone)
 - [Audio Systems](#audio-systems)
+- [Notebooks](#notebooks)
+- [PC Components](#pc-components)
 - [Chairs](#chairs)
 - [Desks](#desks)
 
@@ -23,7 +23,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Matias Mini Tactile Pro](keyboards/matias_mini_tactile_pro/README.md)
 - [Das Keyboard 4 Professional](keyboards/das_keyboard_4_professional/README.md)
 
-List of [all keyboards](keyboards/README.md) grouped by size and sorted by awesomness.
+List of [all keyboards](keyboards/README.md)
 
 ## Mice
 
@@ -34,14 +34,14 @@ List of [all mice](mice/README.md).
 
 ## Monitors
 
-## Notebooks
-- [System76 Lemur](https://system76.com/laptops/lemur)\
-  14"; 1.6kg; IPS matte finish;\
-  Review [EN](https://youtu.be/uGPd056xIdY) [EN](https://youtu.be/qLWlaBtIYwI)
-
-## PC Components
-
 ## Headphones
+ - Koss Porta Pro
+ - Audio Technica ATH-M40x
+ - Audio Technica ATH-M50x
+ - Sennheiser HD 600
+ - beyerdynamic Amiron Home
+
+List of [all headphones](headphones/README.md)
 
 ## Microphones
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)\
@@ -53,6 +53,13 @@ List of [all mice](mice/README.md).
 - [A5+ Powered Speakers](https://audioengineusa.com/shop/poweredspeakers/a5-plus-powered-speakers/)\
   See alow [Wireless](https://audioengineusa.com/shop/wirelessspeakers/a5-wireless-speakers/) version\
   Buy [US](https://www.amazon.com/gp/product/B005OA3BSY/)
+
+## Notebooks
+- [System76 Lemur](https://system76.com/laptops/lemur)\
+  14"; 1.6kg; IPS matte finish;\
+  Review [EN](https://youtu.be/uGPd056xIdY) [EN](https://youtu.be/qLWlaBtIYwI)
+
+## PC Components
 
 ## Chairs
 
