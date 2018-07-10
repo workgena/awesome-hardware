@@ -27,13 +27,15 @@ Therefore the criteria for awesomeness are:
   - Audio Technica ATH-M50x
   - Apple AirPods
 * ~$200
+  - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](hifiman_he4xx/README.md)
 * ~$300
   - Sennheiser HD 58X
   - Sennheiser HD 600
 * ~$400
-  - Sennheiser HD 650
+  - ...
 * ~$500
   - Beyerdynamic DT1770
+  - Sennheiser HD660s
 * ~$600 and more
   - beyerdynamic Amiron Home
   - Beyerdynamic DT1990
