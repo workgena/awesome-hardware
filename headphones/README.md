@@ -34,8 +34,8 @@ Therefore the criteria for awesomeness are:
 * ~$400
   - ...
 * ~$500
-  - Beyerdynamic DT1770
   - [Sennheiser HD 660 S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s)
+  - Beyerdynamic DT1770
 * ~$600 and more
   - beyerdynamic Amiron Home
   - Beyerdynamic DT1990
