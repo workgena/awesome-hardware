@@ -8,7 +8,7 @@ Massdrop x HIFIMAN HE4XX is a pair of high-efficiency, open-back planar magnetic
 
 ## Why is it awesome?
 > Overall this are grate phenomenal warm headphones. They are very comfortable, easy to listen to,
-really really good sounding, very fast and easy to power. Like you cant ask much more for that. @[Joshua Valour](https://youtu.be/HYVR74QoD6M)
+really really good sounding, very fast and easy to power. Like you cant ask much more for that. [@Joshua Valour](https://youtu.be/HYVR74QoD6M)
 
 ## What is good?
 - Comfort. Does not feel sweaty
