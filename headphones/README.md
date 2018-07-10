@@ -30,7 +30,7 @@ Therefore the criteria for awesomeness are:
   - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](hifiman_he4xx/README.md)
 * ~$300
   - Sennheiser HD 58X (need AMP ?)
-  - Sennheiser HD 600 (need AMP ?)
+  - Sennheiser HD 600 (need AMP !?)
 * ~$400
   - ...
 * ~$500
