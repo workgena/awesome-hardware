@@ -38,7 +38,8 @@ List of [all mice](mice/README.md).
  - Koss Porta Pro
  - Audio Technica ATH-M40x
  - Audio Technica ATH-M50x
- - Sennheiser HD 600
+ - Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones
+ - Sennheiser HD 660 S
  - beyerdynamic Amiron Home
 
 List of [all headphones](headphones/README.md)
