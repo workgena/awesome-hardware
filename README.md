@@ -35,12 +35,12 @@ List of [all mice](mice/README.md).
 ## Monitors
 
 ## Headphones
- - Koss Porta Pro
- - Audio Technica ATH-M40x
- - Audio Technica ATH-M50x
- - Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones
- - Sennheiser HD 660 S
- - beyerdynamic Amiron Home
+- Koss Porta Pro
+- Audio Technica ATH-M40x
+- Audio Technica ATH-M50x
+- [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](headphones/hifiman_he4xx/README.md)
+- Sennheiser HD 660 S
+- beyerdynamic Amiron Home
 
 List of [all headphones](headphones/README.md)
 
