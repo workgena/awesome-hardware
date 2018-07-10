@@ -27,16 +27,18 @@ Therefore the criteria for awesomeness are:
   - Audio Technica ATH-M50x
   - Apple AirPods
 * ~$200
+  - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](hifiman_he4xx/README.md)
 * ~$300
-  - Sennheiser HD 58X
-  - Sennheiser HD 600
+  - Sennheiser HD 58X (need AMP ?)
+  - Sennheiser HD 600 (need AMP !?)
 * ~$400
-  - Sennheiser HD 650
+  - ...
 * ~$500
-  - Beyerdynamic DT1770
+  - [Sennheiser HD 660 S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s)
+  - Beyerdynamic DT1770 (need AMP ?)
 * ~$600 and more
   - beyerdynamic Amiron Home
-  - Beyerdynamic DT1990
+  - Beyerdynamic DT1990 (need AMP ?)
 
 **Notice.** If you need microphone, then use dedicated one or something like [ModMic](https://antlionaudio.com/)
 
