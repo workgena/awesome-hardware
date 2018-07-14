@@ -12,7 +12,7 @@ Therefore the criteria for awesomeness are:
 **WARNING:** Comfort criterion defines the [Fit Type](https://www.headphone.com/pages/headphone-fit-types) - *Over Ear* and *On Ear* are highly preferable. Many great products are not listed here case of *Easy to drive* and *Mellow sound* criteria, - most headphones should work good on any laptop/PC with on-board sound card.
 
 * ~$50
-  - [Koss Porta Pro](https://www.koss.com/headphones/on-ear-headphones/porta-pro)
+  - [Koss Porta Pro](koss_porta_pro/README.md)
   - Superlux HD668B
   - Superlux HD330
   - KOSS KSC75
