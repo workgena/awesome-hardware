@@ -23,7 +23,7 @@ Product sorted by awesomeness, but they all good.
 
 - [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md)
 - [Razer DeathAdder Elite](razer_deathadder/README.md)
-  * Bolow are _awesome_ mice with similar shape to DeathAdder.
+  * Below are _awesome_ mice with similar DeathAdder's shape:
   * [Zowie EC-A Series](https://zowie.benq.com/en/product/mouse/ec/ec2-a.html) | Review [EN](https://youtu.be/QHxUvNIVy1k)
   * [Microsoft Classic Intellimouse](microsoft_classic_intellimouse/README.md)
   * [Logitech G403](https://www.logitechg.com/en-us/product/g403-prodigy-wired-gaming-mouse)
