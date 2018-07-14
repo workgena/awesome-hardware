@@ -56,9 +56,8 @@ List of [all headphones](headphones/README.md)
   Buy [US](https://www.amazon.com/gp/product/B005OA3BSY/)
 
 ## Notebooks
-- [System76 Lemur](https://system76.com/laptops/lemur)\
-  14"; 1.6kg; IPS matte finish;\
-  Review [EN](https://youtu.be/uGPd056xIdY) [EN](https://youtu.be/qLWlaBtIYwI)
+- [System76 Galago Pro](https://system76.com/laptops/galago)
+- [Apple MacBook Pro](https://www.apple.com/macbook-pro/)
 
 ## PC Components
 
