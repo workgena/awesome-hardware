@@ -1,6 +1,6 @@
 # [Microsoft Classic Intellimouse](https://www.microsoft.com/accessories/en-us/products/mice/microsoft-classic-intellimouse)
 
-> Inspired by the **Microsoft Intellimouse 3.0**, the new Microsoft Classic Intellimouse has made modern improvements to a fan favorite. The features that fans loved about the original are still here —  the classic ergonomic look and feel.
+> Inspired by the [Microsoft Intellimouse 3.0](https://blogs.windows.com/devices/2018/06/26/a-legend-reborn-microsoft-brings-back-the-iconic-mouse-the-classic-intellimouse/), the new Microsoft Classic Intellimouse has made modern improvements to a fan favorite. The features that fans loved about the original are still here —  the classic ergonomic look and feel.
 
 ![img](classic_intellimouse.jpg?style=centerme)
 
