@@ -37,7 +37,7 @@ Use mouse on a soft mouse pad.
 
 ## Alternatives
 - Zowie EC-series
-- [Microsoft Classic Intellimouse](../microsoft_classic_intellimouse/README.md]
+- [Microsoft Classic Intellimouse](../microsoft_classic_intellimouse/README.md)
 - [Razer Mamba HyperFlux](https://www.razer.com/gaming-mice/razer-mamba-hyperflux); review [EN](https://youtu.be/4c9IwG8OSZ8)
 - Fnatic Flick 2 and Clutch 2 mice; [review by RJN](https://youtu.be/Ks6hAgfg1d4)
 - Logitech G403 (wired); and wireless G603 and G703
