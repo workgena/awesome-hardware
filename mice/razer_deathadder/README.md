@@ -36,13 +36,12 @@ Use mouse on a soft mouse pad.
 - [Razer DeathAdder Elite Review (VS Chroma)](https://youtu.be/qHZpUbT4alA)
 
 ## Alternatives
-- [Razer Mamba HyperFlux](https://www.razer.com/gaming-mice/razer-mamba-hyperflux); review [EN](https://youtu.be/4c9IwG8OSZ8)
 - Zowie EC-series
+- [Microsoft Classic Intellimouse](../microsoft_classic_intellimouse/README.md]
+- [Razer Mamba HyperFlux](https://www.razer.com/gaming-mice/razer-mamba-hyperflux); review [EN](https://youtu.be/4c9IwG8OSZ8)
 - Fnatic Flick 2 and Clutch 2 mice; [review by RJN](https://youtu.be/Ks6hAgfg1d4)
-- Microsoft Classic Intellimouse
 - Logitech G403 (wired); and wireless G603 and G703
 - [Tt eSports Iris Optical RGB](http://www.ttesports.com/Mice/288/Iris_Optical_RGB/productPage.htm?a=a&g=ftr)
 - [Cooler Master MM530](http://www.coolermaster.com/peripheral/mice/mastermouse-mm530/)
 - [Cougar Surpassion](http://cougar-world.ru/products/mice/cougar-surpassion/)
 - Gigabyte XM300 [review by RJN](https://youtu.be/1Fauy1ycbPU)
-- ... this list is endless...
