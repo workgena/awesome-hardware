@@ -33,8 +33,7 @@ Product sorted by awesomeness, but they all good.
   * [Roccat Kone Pure Series](https://www.roccat.org/en-US/Products/Gaming-Mice/Kone-Pure-Series/Kone-Pure-Owl-Eye/) | Review [EN](https://youtu.be/Ck-nXyhRJMA)
   * [HyperX Pulsefire FPS](https://www.hyperxgaming.com/en/mice/pulsefire-fps-gaming-mouse) | Review [EN](https://youtu.be/ZfQmyU_qJG8)
 - [SteelSeries Rival 110](SteelSeries_Rival_110/README.md)
-- [Zowie FK2](https://zowie.benq.com/en/product/mouse/fk/fk2.html)\
-  ambidextrous; 7 buttons; weight 85g\
+- [Zowie FK Series](https://zowie.benq.com/en/product/mouse/fk/fk2.html)
 
 ## Useful Links
 - [The Best Mouse for Laptops](https://youtu.be/tNCwvihWO78)
