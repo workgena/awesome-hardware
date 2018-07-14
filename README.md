@@ -35,7 +35,7 @@ List of [all mice](mice/README.md).
 ## Monitors
 
 ## Headphones
-- Koss KSC75
+- [Koss KSC75](headphones/koss_ksc75/README.md)
 - Audio Technica ATH-M40x
 - Audio Technica ATH-M50x
 - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](headphones/hifiman_he4xx/README.md)
