@@ -25,7 +25,7 @@ Product sorted by awesomeness, but they all good.
 - [Razer DeathAdder Elite](razer_deathadder/README.md)
   * Bolow are _awesome_ mice with similar shape to DeathAdder.
   * [Zowie EC-A Series](https://zowie.benq.com/en/product/mouse/ec/ec2-a.html) | Review [EN](https://youtu.be/QHxUvNIVy1k)
-  * [Microsoft Classic Intellimouse](https://www.microsoft.com/accessories/en-us/products/mice/microsoft-classic-intellimouse)
+  * [Microsoft Classic Intellimouse](microsoft_classic_intellimouse/README.md)
   * [Logitech G403](https://www.logitechg.com/en-us/product/g403-prodigy-wired-gaming-mouse)
   * [Logitech G603](https://www.logitechg.com/en-us/product/g603-lightspeed-wireless-gaming-mouse) Wireless
   * [Logitech G703](https://www.logitechg.com/en-us/product/g703-wireless-gaming-mouse) Wireless
