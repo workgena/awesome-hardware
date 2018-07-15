@@ -37,7 +37,7 @@ Therefore the criteria for awesomeness are:
   - [Sennheiser HD 660 S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s)
   - Beyerdynamic DT1770 (need AMP ?)
 * ~$600 and more
-  - [Beyerdynamic DT 1990 PRO](headphones/beyerdynamic_dt_1990_pro/README.md)
+  - [Beyerdynamic DT 1990 PRO](beyerdynamic_dt_1990_pro/README.md)
 
 **Notice.** If you need microphone, then use dedicated one or something like [ModMic](https://antlionaudio.com/)
 
