@@ -40,7 +40,7 @@ List of [all mice](mice/README.md).
 - Audio Technica ATH-M50x
 - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](headphones/hifiman_he4xx/README.md)
 - Sennheiser HD 660 S
-- beyerdynamic Amiron Home
+- [Beyerdynamic DT 1990 PRO](headphones/beyerdynamic_dt_1990_pro/README.md)
 
 List of [all headphones](headphones/README.md)
 
