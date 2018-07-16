@@ -2,7 +2,7 @@
 
 > The high-performance ATH-M40x professional headphones are tuned flat for incredibly accurate audio monitoring across an extended frequency range. Your studio experience is enhanced with superior sound isolation and swiveling earcups for convenient one-ear monitoring. Engineered with pro-grade materials and robust construction, the M40x excels in professional studio tracking and mixing, as well as DJ monitoring.
 
-![img](m40x.jpg.jpg)
+![img](m40x.jpg)
 
 **Notice.** Sounds better then ATH-M50x. The ATH-M40x/M50x designed for music creators and DJs. However are good for music listening as well.
 
