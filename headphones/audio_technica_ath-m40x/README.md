@@ -20,7 +20,7 @@ Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit
 - Balanced neutral/linear sound
 
 ## What is wrong?
-- Ears touches ear-pads(presses on edges)
+- Ears touche ear-pads(light pressure on ear edge)
 
 ## Important specs
 - Close principle
