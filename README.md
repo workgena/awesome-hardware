@@ -33,6 +33,9 @@ List of [all keyboards](keyboards/README.md)
 List of [all mice](mice/README.md).
 
 ## Monitors
+- [EIZO](http://www.eizoglobal.com/)
+- [Dell](https://www.dell.com/en-us/work/shop/accessories/ac/4009?c=us&category_id=4009&cs=04&l=en&ref=bkt&s=bsd)
+- [LG](https://www.lg.com/us/monitors)
 
 ## Headphones
 - [Koss KSC75](headphones/koss_ksc75/README.md)
@@ -50,9 +53,8 @@ List of [all headphones](headphones/README.md)
 
 ## Audio Systems
 
-- [A5+ Powered Speakers](https://audioengineusa.com/shop/poweredspeakers/a5-plus-powered-speakers/)\
-  See alow [Wireless](https://audioengineusa.com/shop/wirelessspeakers/a5-wireless-speakers/) version\
-  Buy [US](https://www.amazon.com/gp/product/B005OA3BSY/)
+- [Audioengine A5+ Powered Speakers](https://audioengineusa.com/shop/poweredspeakers/a5-plus-powered-speakers/)
+- [Audioengine A2+ Powered Speaker System](https://audioengineusa.com/shop/poweredspeakers/a2-plus-powered-speakers/)
 
 ## Notebooks
 - [System76 Galago Pro](https://system76.com/laptops/galago)
