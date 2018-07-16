@@ -18,13 +18,13 @@ Therefore the criteria for awesomeness are:
   - Superlux HD330
   - Status Audio CB-1
 * ~$100
+  - [Audio Technica ATH-M40x](audio_technica_ath-m40x/README.md)
   - [Philips HiFi Stereo Headphones](philips_shp9500s/README.md)
-  - Audio Technica ATH-M40x
+  - TAKSTAR PRO 82 Professional Studio Dynamic Monitor Headphone
   - Takstar HI 2050
   - Shure SRH440
   - Sony MDR7506
 * ~$150
-  - Audio Technica ATH-M50x
   - Apple AirPods
 * ~$200
   - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](hifiman_he4xx/README.md)
