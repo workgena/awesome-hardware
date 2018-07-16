@@ -7,9 +7,9 @@
 **Notice.** Sounds better then ATH-M50x. The ATH-M40x/M50x designed for music creators and DJs. However are good for music listening as well.
 
 ## Why is it awesome?
-Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit of solidity to the bass which is actually kind of nice
-
 > The ATH-M40x Professional Studio Monitor Headphones are well-rounded, affordable, and very highly-rated; a superior option for a range of tastes and opinions. Whether you are a long-time musical expert or an everyday music lover, this device could be a great addition to your life. [@Gerald](https://musicauthority.org/headphones/audio-technica-ath-m40x-review/)
+
+Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit of solidity to the bass which is actually kind of nice.
 
 ![img](Audio-Technica_ATH-M40x_All_-_-_HDM-X_-_90_20-20k_-_fr_impedance.png)
 
