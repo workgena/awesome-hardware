@@ -10,7 +10,9 @@ It is hard to find a person who don't like this mouse once tried.
 
 Being the most popular product in the World has one drawback - every manufacturer wants to make own clone. And they did. DeathAdder has tons of competitors, some of them are really good and cheaper. But the Elite is at the top.
 
- then DeathAdder Elite.Notice. The **Razer Mamba** has different shape, it is heavy. But the new "Mamba HyperFlux" is different story, better shape, reasonable weight. Mamba HyperFlux even better(more comfortable) then DeathAdder Elite.
+**Notice.** The **Razer Mamba** has different shape and is heavy - not recommended. But the new "Mamba HyperFlux" is different - better shape, reasonable weight. Mamba HyperFlux even more comfortable then DeathAdder.
+
+**Notice.** Latest Mamba - **Razer Mamba Elite** is a grate alternative to DeathAdder. Check out the [comparison video](https://youtu.be/_q1Ai2sRRLc).
 
 ## Why is it awesome?
 DeathAdder has been one of the most popular gaming mouse ever since its initial release in 2006. It is comfortable for every-day usage. The mouse has "everything right".
@@ -36,6 +38,7 @@ Use mouse on a soft mouse pad.
 - [Razer DeathAdder Elite Review (VS Chroma)](https://youtu.be/qHZpUbT4alA)
 
 ## Alternatives
+- [Razer Mamba Elite](https://www.razer.com/gaming-mice/razer-mamba-elite) | review by [RJN](https://youtu.be/_q1Ai2sRRLc)
 - Zowie EC-series
 - [Microsoft Classic Intellimouse](../microsoft_classic_intellimouse/README.md)
 - [Razer Mamba HyperFlux](https://www.razer.com/gaming-mice/razer-mamba-hyperflux); review [EN](https://youtu.be/4c9IwG8OSZ8)
