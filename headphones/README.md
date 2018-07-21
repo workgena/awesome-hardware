@@ -23,7 +23,6 @@ Therefore the criteria for awesomeness are:
   - TAKSTAR PRO 82 Professional Studio Dynamic Monitor Headphone
   - Takstar HI 2050
   - Shure SRH440
-  - Sony MDR7506
 * ~$150
   - Apple AirPods
 * ~$200
