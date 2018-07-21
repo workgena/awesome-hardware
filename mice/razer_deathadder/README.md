@@ -12,7 +12,7 @@ Being the most popular product in the World has one drawback - every manufacture
 
 **Notice.** The **Razer Mamba** has different shape and is heavy - not recommended. But the new "Mamba HyperFlux" is different - better shape, reasonable weight. Mamba HyperFlux even more comfortable then DeathAdder.
 
-**Notice.** Latest Mamba - **Razer Mamba Elite** is grate alternative to DeathAdder. Check out the [Comparison video](https://youtu.be/_q1Ai2sRRLc).
+**Notice.** Latest Mamba - **Razer Mamba Elite** is a grate alternative to DeathAdder. Check out the [comparison video](https://youtu.be/_q1Ai2sRRLc).
 
 ## Why is it awesome?
 DeathAdder has been one of the most popular gaming mouse ever since its initial release in 2006. It is comfortable for every-day usage. The mouse has "everything right".
