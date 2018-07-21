@@ -43,4 +43,4 @@ Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit
 ## Alternatives
 - TAKSTAR PRO 82 Professional Studio Dynamic Monitor Headphone
 - Audio Technica ATH-M50X
-- Sony MDR-7506
+- Sony MDR-7506 | review by [metal571](https://youtu.be/Ob7afLIGjng)
