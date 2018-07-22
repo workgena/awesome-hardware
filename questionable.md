@@ -21,14 +21,13 @@ In spite of some disadvantages the product could be good for someone.
 
 *   [Microsoft Natural Ergonomic Keyboard 4000](https://www.microsoft.com/accessories/en-us/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00012)
 
-    This is "rubber dome" implemented in no high quality, causing some keys feel different from others.
-    And the shell design make distance between <Ctrl> and <V> keys a way too long.
-    Typing on this keyboard is far less pleasent as on mechanical.
-    And hittng Ctrl+V leads to fast finger fatigue.
+    This is not good implementation of "rubber dome", it cause some keys feel different from others.
+    And the shell design makes distance between <Ctrl> and <V> keys a way too long.
+    Typing on this keyboard is far less pleasant as on mechanical.
+    Frequent hitting Ctrl+V leads to faster finger fatigue.
 
 *   [ANNE Pro](http://en.obins.net/anne-pro)
 
-    Reviews: [Poker vs. Anne Pro ~ 60% KEYBOARD BATTLE!](https://youtu.be/EbnRgkCS73w)
-    As many cheap 60% keyboads the Anne Pro has this huge disadvantage:
-    accessing the FN-layer keys is made by "toggle mode" instead of holding Fn-key as implemented on Poker keyboards.
-
+  Reviews: [Poker vs. Anne Pro ~ 60% KEYBOARD BATTLE!](https://youtu.be/EbnRgkCS73w) \
+  [Anne Pro RGB Wireless Gaming Mechanical Keyboard - Unboxing & Review](https://youtu.be/mJ1fsALtGXo) \
+  [Remapping Anne Key to Left Alt key?](https://www.reddit.com/r/AnnePro/comments/6v675e/remapping_anne_key_to_left_alt_key/)
