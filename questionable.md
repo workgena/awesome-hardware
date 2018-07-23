@@ -65,3 +65,12 @@ In spite of some disadvantages the product could be good for someone.
     [Amiron Home Review](https://youtu.be/Dc-_lOvrzuU)
 
     Like others **beyerdynamic**, this one has bright treble. Not for comfort ling easy listening.
+
+*   [AKG K712 Pro](https://www.akg.com/Headphones/Professional%20Headphones/K712PRO.html)
+
+    Reviews: [AKG K712 Pro Review ($400 Power Hungry Slovakian Soundstage Monsters)](https://youtu.be/1uWN-DLD-ok) \
+    [Z Review - AKG K712pro](https://youtu.be/4XU4PCrXzhc) \
+    [AKG K712 PRO Review - Superb Flavorful AKG Sound](https://youtu.be/BNxONeSj-pI)
+
+    Need a good powerful amplifier. Has a some of bright treble. No comfortable for small head.
+    Other then that - this one is amazing.
