@@ -16,8 +16,6 @@ Probably the most known and customizable 60% size keyboard, remarkably good prod
 
 ## Why is it awesome?
 
-> The POK3R is very much THE standard when it comes to 60% keyboards. All other mechanical keyboards are measured against it, and there's good reason why. [@skiwithpete](https://youtu.be/J4_SWpOE6wM)
-
 Beautiful, elegant keyboard. Fully programmable. Layout Layers, programmable layers. *Top-1 programmable keyboard* in 60%-size category.
 
 ## What is good?
@@ -70,6 +68,8 @@ It comes in Black/White case color, and with all family of Cherry MX switchers, 
 The default arrow mapping is different from Poker II, but of cause it is fully programmable within non-default layers, keycap material.
 
 ## Why is it awesome?
+
+> The POK3R is very much THE standard when it comes to 60% keyboards. All other mechanical keyboards are measured against it, and there's good reason why. [@skiwithpete](https://youtu.be/J4_SWpOE6wM)
 
 > If you're looking for an RGB keyboard that is 60% there's not much that beats this, in fact I don't think that there is really anything that compares. [@Tech Intake](https://youtu.be/ppeti2j4qBE)
 

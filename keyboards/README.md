@@ -3,15 +3,15 @@
 Keyboards are grouped by size and sorted by awesomeness.
 This list is build with such criteria in mind: **comfort**, **features**, **programmability**, **switchers** type.
 100%-size keyboards are remnant of the past. They are not recommended for general use.
-If you need *NumPad* you should by the separate "Number Pad Keyboard".
+If you need *NumPad* you should buy the separate "Number Pad Keyboard".
 But still, below you will find some full-size keyboards only because they have some really unique and awesome features.
 
 Wrist reset is good addition, better to buy separately.
 
 The most valuable products are in 65% and 80%-size category.
 
-60% layout keyboards may not suit you if you often use combination `Ctrl + F1`(-F12),
-because with such keyboards you need hold `Fn + Ctrl + F1` at the same time.
+60% layout keyboards may not suit you, if you often use combination `Ctrl + F1`(-F12).
+Because with such keyboards you need hold `Fn + Ctrl + F1` at the same time.
 Using arrows is not uncomfortable as it may seem.
 
 If you already feel shoulder/wrist pain it is highly recommended go for split-keyboard-layout, like:
