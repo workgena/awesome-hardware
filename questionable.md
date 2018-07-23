@@ -33,6 +33,7 @@ In spite of some disadvantages the product could be good for someone.
     [Obins Anne Pro Review - Bluetooth RGB 60% Great for Beginners](https://youtu.be/ub0v1JVaEa4) \
     [The BEST Wireless Mechanical RGB Keyboard Under $100! Anne Pro RGB Review](https://youtu.be/58CTM397dvs) \
     [The Perfect 60% Gaming Keyboard? Anne Pro](https://youtu.be/TDcAxWz07xM) \
+    [Best Sub $100 Mechanical Keyboard! Anne Pro Review](https://youtu.be/pmdTz5QB2mM) \
     [Remapping Anne Key to Left Alt key?](https://www.reddit.com/r/AnnePro/comments/6v675e/remapping_anne_key_to_left_alt_key/)
 
     The main competitor for Pok3r keyboards. This is not awesome because of the price.
@@ -54,3 +55,13 @@ In spite of some disadvantages the product could be good for someone.
 
     The keyboard is great, but has only one disadvantage for 60%-size, it is not programmable.
     The shorter \<Space\> and two \<Fn\> keys on its sides - is a grate design decision.
+
+
+## Headphones
+
+*   [beyerdynamic Amiron Home](https://north-america.beyerdynamic.com/amiron-home.html)
+
+    Reviews: [beyerdynamic Amiron Home Review](https://youtu.be/bhSUJYDO0Qo) \
+    [Amiron Home Review](https://youtu.be/Dc-_lOvrzuU)
+
+    Like others **beyerdynamic**, this one has bright treble. Not for comfort ling easy listening.
