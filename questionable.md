@@ -30,10 +30,14 @@ In spite of some disadvantages the product could be good for someone.
 
     Reviews: [Poker vs. Anne Pro ~ 60% KEYBOARD BATTLE!](https://youtu.be/EbnRgkCS73w) \
     [Anne Pro RGB Wireless Gaming Mechanical Keyboard - Unboxing & Review](https://youtu.be/mJ1fsALtGXo) \
+    [Obins Anne Pro Review - Bluetooth RGB 60% Great for Beginners](https://youtu.be/ub0v1JVaEa4) \
+    [The BEST Wireless Mechanical RGB Keyboard Under $100! Anne Pro RGB Review](https://youtu.be/58CTM397dvs) \
+    [The Perfect 60% Gaming Keyboard? Anne Pro](https://youtu.be/TDcAxWz07xM) \
     [Remapping Anne Key to Left Alt key?](https://www.reddit.com/r/AnnePro/comments/6v675e/remapping_anne_key_to_left_alt_key/)
 
     The main competitor for Pok3r keyboards. This is not awesome because of the price.
     Anne Pro is not reasonably cheaper the Pok3r and does not have any real advantage over Pok3r.
+    Bluetooth is not not fast enough.
 
 *   [Logitech Illuminated Living-Room Keyboard K830](https://www.logitech.com/en-us/product/living-room-keyboard-k830?crid=27)
 
