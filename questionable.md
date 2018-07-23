@@ -42,3 +42,11 @@ In spite of some disadvantages the product could be good for someone.
 
     This keyboard is actually very good, perhaps even awesome.
     The one disadvantage is flat keycaps, without groove for fingers.
+
+*   [Filco Majestouch Minila Mechanical Keyboard](https://www.diatec.co.jp/en/det.php?prod_c=1320)
+
+    Reviews: [Filco Majestouch Minila Air Review](https://youtu.be/B6iX9N_-o-g) \
+    [Обзор Filco Majestouch Minila Air — механика с Bluetooth!](https://youtu.be/e1NwGeinRj0)
+
+    The keyboard is great, but has only one disadvantage for 60%-size, it is not programmable.
+    The shorter \<Space\> and two \<Fn\> keys on its sides - is a grate design decision.
