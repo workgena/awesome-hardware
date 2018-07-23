@@ -37,7 +37,8 @@ In spite of some disadvantages the product could be good for someone.
 
 *   [Logitech Illuminated Living-Room Keyboard K830](https://www.logitech.com/en-us/product/living-room-keyboard-k830?crid=27)
 
-    Reviews: [Logitech K830 illuminated Wireless keyboard with touchpad - Review!](https://youtu.be/C-65K9GcXuU)
+    Reviews: [The Best Wireless Keyboard](https://youtu.be/x6rzna_UGXs) \
+    [Logitech K830 illuminated Wireless keyboard with touchpad - Review!](https://youtu.be/C-65K9GcXuU)
 
     This keyboard is actually very good, perhaps even awesome.
     The one disadvantage is flat keycaps, without groove for fingers.
