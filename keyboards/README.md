@@ -36,8 +36,10 @@ If you already feel shoulder/wrist pain it is highly recommended go for split-ke
   * [Realforce 87U](realforce_87u/README.md)
   * other great TKL keyboards, all with similar features:
     - [Logitech G Pro Tenkeyless Mechanical Gaming Keyboard](https://www.logitechg.com/en-us/product/pro-gaming-keyboard)
-    - [Masterkeys Pro S](http://www.coolermaster.com/peripheral/keyboards/masterkeys-pro-s/)
     - [Varmilo VA87M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3895)
+    - [Massdrop CTRL Mechanical Keyboard](https://www.massdrop.com/buy/massdrop-ctrl-mechanical-keyboard)
+    - [Fnatic miniSTREAK](https://fnatic.com/gear/mini-streak)
+    - [Masterkeys Pro S](http://www.coolermaster.com/peripheral/keyboards/masterkeys-pro-s/)
     - [Filco Ninja Majestouch-2](http://www.diatec.co.jp/en/list.php)
     - [WASD CODE 87-Key Mechanical Keyboard](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard-2545.html)
     - [Ducky One 2 series](http://www.duckychannel.com.tw/en/keyboard.html)
