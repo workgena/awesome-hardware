@@ -56,6 +56,7 @@ List of [all headphones](headphones/README.md)
 
 - [Audioengine A5+ Powered Speakers](https://audioengineusa.com/shop/poweredspeakers/a5-plus-powered-speakers/)
 - [Audioengine A2+ Powered Speaker System](https://audioengineusa.com/shop/poweredspeakers/a2-plus-powered-speakers/)
+- [Yamaha HS7W](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 
 ## Notebooks
 - [System76 Galago Pro](https://system76.com/laptops/galago)
