@@ -35,6 +35,7 @@ It is fully programmable keyboard. On purchase you can chose 35/45 g switch with
 - [Plum 87 Software Guide](https://youtu.be/DSyvOT9KkVo)
 
 ## Reviews
+- [The TOPRE Alternative: Niz EC 45g Keyboard Review](https://youtu.be/rKZmsJdM35E)
 - [Topre/Hybird RGB Keyboard Better than mechanical](https://youtu.be/MBdHF2abKZg) - new models do not have RGB
 - [Plum nano75 great for what it is](https://imgur.com/gallery/tfSik) and [Reddit discussion](https://www.reddit.com/r/MechanicalKeyboards/comments/50vnpu/plum_nano75_great_for_what_it_is/)
 - [Plum 87 White PBT Mechanical Keyboard (35g Electro Capacitive) Review](https://youtu.be/ZMfrenMCdT0) consider that this review on 35g-version. And this review on 87-keys version. But the build quality and other features are like on 75-keys version.
