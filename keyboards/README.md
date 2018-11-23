@@ -24,9 +24,9 @@ If you already feel shoulder/wrist pain it is highly recommended go for split-ke
 *Goldtouch ErgoSecure 2.0*
 
 - 60% / Compact Keyboards
-  * [Happy Hacking Professional 2](hhkb_2/README.md)
   * [Poker keyboards](poker/README.md)
   * [Plum Nano 75](plum_nano_75/README.md)
+  * [Happy Hacking Professional 2](hhkb_2/README.md)
   * [Mistel Barocco](mistel_barocco/README.md)
 - 65% / Keyboards (with arrows)
   * [Leopold FC660C](leopold_fc660c/README.md)
@@ -34,17 +34,17 @@ If you already feel shoulder/wrist pain it is highly recommended go for split-ke
   * [Qisan MagicForce 68](qisan_magicforce_68/en.md)
 - 80% / TKL Keyboards (Tenkeyless)
   * [Realforce 87U](realforce_87u/README.md)
+  * [Massdrop CTRL Mechanical Keyboard](https://www.massdrop.com/buy/massdrop-ctrl-mechanical-keyboard)
   * other great TKL keyboards, all with similar features:
-    - [Logitech G Pro Tenkeyless Mechanical Gaming Keyboard](https://www.logitechg.com/en-us/product/pro-gaming-keyboard)
-    - [Varmilo VA87M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3895)
-    - [Massdrop CTRL Mechanical Keyboard](https://www.massdrop.com/buy/massdrop-ctrl-mechanical-keyboard)
     - [Fnatic miniSTREAK](https://fnatic.com/gear/mini-streak)
+    - [Varmilo VA87M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=3895)
+    - [Logitech G Pro Tenkeyless Mechanical Gaming Keyboard](https://www.logitechg.com/en-us/products/gaming-keyboards/pro-gaming-keyboard.html)
     - [Masterkeys Pro S](http://www.coolermaster.com/peripheral/keyboards/masterkeys-pro-s/)
     - [Filco Ninja Majestouch-2](http://www.diatec.co.jp/en/list.php)
-    - [WASD CODE 87-Key Mechanical Keyboard](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard-2545.html)
     - [Ducky One 2 series](http://www.duckychannel.com.tw/en/keyboard.html)
-    - [Razer BlackWidow Tournament Edition Chroma V2](https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-tournament-edition-chroma-v2)
-    - [Bloody B930 Light Strike TKL TenKeyLess](https://www.bloody.com/usa/product.php?pid=11&id=165)
+    - [Razer BlackWidow Lite](https://www.razer.com/gaming-keyboards-keypads/razer-blackwidow-lite)
+    - [WASD CODE 87-Key Mechanical Keyboard](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard-2619.html)
+    - [Bloody B930 Light Strike TKL TenKeyLess](https://www.bloodyusa.com/product.php?pid=11&id=165)
 - 100% / Full-size Keyboards
   * [Das Keyboard 4 Professional](das_keyboard_4_professional/README.md)
   * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the **IBM Model M**
@@ -57,5 +57,3 @@ If you already feel shoulder/wrist pain it is highly recommended go for split-ke
   * [ErgoDox EZ](https://ergodox-ez.com/) - is a different kind of keyboards
   * [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)
   * [Goldtouch ErgoSecure 2.0 Smart Card Keyboard](https://shop.goldtouch.com/products/goldtouch-ergosecure-2-0-smart-card-keyboard)
-  * [Kinesis Maxim for PC](https://www.kinesis-ergo.com/shop/maxim-for-pc/)
-
