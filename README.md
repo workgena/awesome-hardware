@@ -41,6 +41,7 @@ List of [all mice](mice/README.md).
 ## Headphones
 - [Koss KSC75](headphones/koss_ksc75/README.md)
 - [Audio Technica ATH-M40x](headphones/audio_technica_ath-m40x/README.md)
+- [Audio-Technica ATH-M60x](headphones/audio_technica_ath-m60x/README.md)
 - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](headphones/hifiman_he4xx/README.md)
 - Sennheiser HD 660 S
 - [Beyerdynamic DT 1990 PRO](headphones/beyerdynamic_dt_1990_pro/README.md)
