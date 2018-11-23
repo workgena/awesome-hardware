@@ -60,10 +60,13 @@ List of [all headphones](headphones/README.md)
 - [Yamaha HS7W](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 
 ## Notebooks
+
 - [System76 Galago Pro](https://system76.com/laptops/galago)
 - [Apple MacBook Pro](https://www.apple.com/macbook-pro/)
 
 ## PC Components
+
+- [Western Digital My Passport SSD](https://www.wd.com/products/portable-storage/my-passport-ssd.html)
 
 ## Chairs
 
