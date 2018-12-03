@@ -22,10 +22,10 @@ In spite of some disadvantages the product could be good for someone.
 *   [Microsoft Natural Ergonomic Keyboard 4000](https://www.microsoft.com/accessories/en-us/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00012)
 
     This is not good implementation of "rubber dome", some keys feel different from others.
-    And the board design makes distance between <Ctrl> and <V> keys a way too long.
-    Typing on this keyboard is far less pleasant as on some other quality "rubber dome" keyboards.
-    Frequent hitting Ctrl+V leads to faster finger fatigue.
-    But this particular disadvantage me be not relevant for people with long fingers.
+    And the board design makes distance between `Ctrl` and `V` keys a way too long.
+    Typing on this keyboard is far less pleasant as on other quality "rubber dome" keyboards.
+    Frequent hitting `Ctrl + V` leads to faster finger fatigue.
+    This particular disadvantage me be not relevant for people with long fingers.
 
 *   [ANNE Pro](http://en.obins.net/anne-pro)
 
@@ -38,9 +38,9 @@ In spite of some disadvantages the product could be good for someone.
     [6](https://www.reddit.com/r/AnnePro/comments/6v675e/remapping_anne_key_to_left_alt_key/)
 
     ANNE Pro is the main competitor for Poker keyboards. It is not awesome because of the price.
-    Anne Pro is not reasonably cheaper the Poker and does not have any real advantage over Poker.
-    Bluetooth is not fast and can be irritating. Programmability is worth compared to Poker.
-    The "ANNE Pro 2" is match better and is awesome.
+    Anne Pro is not reasonably cheaper then the Poker and does not have any real advantage over Poker.
+    Bluetooth is not fast and can be irritating. Programmability is worth then on Poker.
+    The "ANNE PRO 2" is match better.
 
 *   [Logitech Illuminated Living-Room Keyboard K830](https://www.logitech.com/en-us/product/living-room-keyboard-k830?crid=27)
 
@@ -54,7 +54,7 @@ In spite of some disadvantages the product could be good for someone.
     Reviews: [Filco Majestouch Minila Air Review](https://youtu.be/B6iX9N_-o-g),
     [Обзор Filco Majestouch Minila Air — механика с Bluetooth!](https://youtu.be/e1NwGeinRj0)
 
-    The keyboard is great, but has only one disadvantage for 60%-size, it is not programmable.
+    The keyboard is great, but has only one disadvantage for 60%-size &dash; is not programmable.
     The shorter \<Space\> and two \<Fn\> keys on both sides - is a grate design decision.
 
 
