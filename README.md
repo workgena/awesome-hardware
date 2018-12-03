@@ -71,3 +71,8 @@ List of [all headphones](headphones/README.md)
 ## Chairs
 
 ## Desks
+
+
+# Not awesome, but still worth to mention
+
+- [List of questionable](questionable.md) products. The list contains popular products and short answer why they are no awesome.
