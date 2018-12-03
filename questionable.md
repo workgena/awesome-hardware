@@ -21,40 +21,41 @@ In spite of some disadvantages the product could be good for someone.
 
 *   [Microsoft Natural Ergonomic Keyboard 4000](https://www.microsoft.com/accessories/en-us/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00012)
 
-    This is not good implementation of "rubber dome", it cause some keys feel different from others.
-    And the shell design makes distance between <Ctrl> and <V> keys a way too long.
-    Typing on this keyboard is far less pleasant as on mechanical.
+    This is not good implementation of "rubber dome", some keys feel different from others.
+    And the board design makes distance between <Ctrl> and <V> keys a way too long.
+    Typing on this keyboard is far less pleasant as on some other quality "rubber dome" keyboards.
     Frequent hitting Ctrl+V leads to faster finger fatigue.
+    But this particular disadvantage me be not relevant for people with long fingers.
 
 *   [ANNE Pro](http://en.obins.net/anne-pro)
 
-    Reviews: [Poker vs. Anne Pro ~ 60% KEYBOARD BATTLE!](https://youtu.be/EbnRgkCS73w) \
-    [Anne Pro RGB Wireless Gaming Mechanical Keyboard - Unboxing & Review](https://youtu.be/mJ1fsALtGXo) \
-    [Obins Anne Pro Review - Bluetooth RGB 60% Great for Beginners](https://youtu.be/ub0v1JVaEa4) \
-    [The BEST Wireless Mechanical RGB Keyboard Under $100! Anne Pro RGB Review](https://youtu.be/58CTM397dvs) \
-    [The Perfect 60% Gaming Keyboard? Anne Pro](https://youtu.be/TDcAxWz07xM) \
-    [Best Sub $100 Mechanical Keyboard! Anne Pro Review](https://youtu.be/pmdTz5QB2mM) \
-    [Remapping Anne Key to Left Alt key?](https://www.reddit.com/r/AnnePro/comments/6v675e/remapping_anne_key_to_left_alt_key/)
+    Reviews: [1](https://youtu.be/EbnRgkCS73w),
+    [2](https://youtu.be/mJ1fsALtGXo),
+    [3](https://youtu.be/ub0v1JVaEa4),
+    [3](https://youtu.be/58CTM397dvs),
+    [4](https://youtu.be/TDcAxWz07xM),
+    [5](https://youtu.be/pmdTz5QB2mM),
+    [6](https://www.reddit.com/r/AnnePro/comments/6v675e/remapping_anne_key_to_left_alt_key/)
 
-    The main competitor for Pok3r keyboards. This is not awesome because of the price.
-    Anne Pro is not reasonably cheaper the Pok3r and does not have any real advantage over Pok3r.
-    Bluetooth is not not fast enough.
+    ANNE Pro is the main competitor for Poker keyboards. It is not awesome because of the price.
+    Anne Pro is not reasonably cheaper the Poker and does not have any real advantage over Poker.
+    Bluetooth is not fast and can be irritating. Programmability is worth compared to Poker.
+    The "ANNE Pro 2" is match better and is awesome.
 
 *   [Logitech Illuminated Living-Room Keyboard K830](https://www.logitech.com/en-us/product/living-room-keyboard-k830?crid=27)
 
-    Reviews: [The Best Wireless Keyboard](https://youtu.be/x6rzna_UGXs) \
-    [Logitech K830 illuminated Wireless keyboard with touchpad - Review!](https://youtu.be/C-65K9GcXuU)
+    Reviews: [The Best Wireless Keyboard](https://youtu.be/x6rzna_UGXs), [Logitech K830 illuminated Wireless keyboard with touchpad - Review!](https://youtu.be/C-65K9GcXuU)
 
-    This keyboard is actually very good, perhaps even awesome.
-    The one disadvantage is flat keycaps, without groove for fingers.
+    This keyboard is actually very good. It is awesome for "couch typing", but not for a professional use.
+    The main disadvantage is flat keycaps - no groove for fingers.
 
 *   [Filco Majestouch Minila Mechanical Keyboard](https://www.diatec.co.jp/en/det.php?prod_c=1320)
 
-    Reviews: [Filco Majestouch Minila Air Review](https://youtu.be/B6iX9N_-o-g) \
+    Reviews: [Filco Majestouch Minila Air Review](https://youtu.be/B6iX9N_-o-g),
     [Обзор Filco Majestouch Minila Air — механика с Bluetooth!](https://youtu.be/e1NwGeinRj0)
 
     The keyboard is great, but has only one disadvantage for 60%-size, it is not programmable.
-    The shorter \<Space\> and two \<Fn\> keys on its sides - is a grate design decision.
+    The shorter \<Space\> and two \<Fn\> keys on both sides - is a grate design decision.
 
 
 ## Headphones
@@ -64,7 +65,7 @@ In spite of some disadvantages the product could be good for someone.
     Reviews: [beyerdynamic Amiron Home Review](https://youtu.be/bhSUJYDO0Qo) \
     [Amiron Home Review](https://youtu.be/Dc-_lOvrzuU)
 
-    Like others **beyerdynamic**, this one has bright treble. Not for comfort ling easy listening.
+    Like others **beyerdynamic**, this one has bright treble. Not for comfort long easy listening.
 
 *   [AKG K712 Pro](https://www.akg.com/Headphones/Professional%20Headphones/K712PRO.html)
 
@@ -72,5 +73,5 @@ In spite of some disadvantages the product could be good for someone.
     [Z Review - AKG K712pro](https://youtu.be/4XU4PCrXzhc) \
     [AKG K712 PRO Review - Superb Flavorful AKG Sound](https://youtu.be/BNxONeSj-pI)
 
-    Need a good powerful amplifier. Has a some of bright treble. No comfortable for small head.
-    Other then that - this one is amazing.
+    Need a good powerful amplifier. Has bright treble. No comfortable for small head.
+    Other then that - this are amazing.

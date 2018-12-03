@@ -67,6 +67,6 @@ List of [all headphones](headphones/README.md)
 ## Desks
 
 
-# Not awesome, but still worth mention
+# Not awesome, but still worth to mention
 
-- [List of questionable](questionable.md) products. The list contains popular products and describe why they are no awesome.
+- [List of questionable](questionable.md) products. The list contains popular products and short answer why they are no awesome.
