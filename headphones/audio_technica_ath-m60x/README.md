@@ -28,6 +28,7 @@ As others good headphones, they prefer hi-res source - FLAC files over MP3.
 
 ## Reviews
 - [Z Review - Audio-Technica ATH-M60x [FFFFFFFFFFFFFFFFFFFFFFFFF]](https://youtu.be/N-bZSdd95h4)
+- [Audio Technica ATH-M60x Review vs. M50x / M70x Comparison](https://youtu.be/WQ7PxuOYIQs)
 - [Audio Technica ATH-M60X Review](https://audio46.com/audio-technica-ath-m60x-review/)
 
 ## Alternatives
