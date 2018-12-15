@@ -29,4 +29,4 @@ They're open, light, comfortable. Sound grate.
 ## Alternatives
 - [Koss KSC75](https://www.koss.com/headphones/ear-clip/ksc75) | Review [EN](https://youtu.be/mx540xJ0ieY?t=1024)
 - [Massdrop x Koss Porta Pro X Headphones](https://www.massdrop.com/buy/massdrop-x-koss-porta-pro-x-headphones)
-- [Koss Porta Pro Wireless Headphones](https://www.massdrop.com/buy/koss-porta-pro-wireless-headphones)
+- [Koss Porta Pro Wireless](https://www.koss.com/headphones/wireless-headphones/porta-pro-wireless)
