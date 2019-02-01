@@ -32,7 +32,6 @@ Product sorted by awesomeness, but they all good.
   * [SteelSeries Rival 310](https://steelseries.com/gaming-mice/rival-310) | Review [EN](https://youtu.be/i62CDjEbhLo)
   * [Roccat Kone Pure Series](https://www.roccat.org/en-US/Products/Gaming-Mice/Kone-Pure-Series/Kone-Pure-Owl-Eye/) | Review [EN](https://youtu.be/Ck-nXyhRJMA)
   * [HyperX Pulsefire FPS](https://www.hyperxgaming.com/en/mice/pulsefire-fps-gaming-mouse) | Review [EN](https://youtu.be/ZfQmyU_qJG8)
-- [SteelSeries Rival 110](SteelSeries_Rival_110/README.md)
 - [Zowie FK Series](https://zowie.benq.com/en/product/mouse/fk/fk2.html)
 
 ## Useful Links

@@ -58,6 +58,16 @@ In spite of some disadvantages the product could be good for someone.
     The shorter \<Space\> and two \<Fn\> keys on both sides - is a grate design decision.
 
 
+## Mice
+
+*   [SteelSeries Rival 110](https://steelseries.com/gaming-mice/rival-110)
+
+    Review: [1](https://youtu.be/b1sHUySB5yA), [2](https://youtu.be/soSuG9fmIR4)
+
+    Rival 110 is good for its price. But has sharp edges - what makes it uncomfortable for casual use.
+    Logitech made better shape with B90/B100/G102/G103 with smoth edges, in similar shell.
+
+
 ## Headphones
 
 *   [beyerdynamic Amiron Home](https://north-america.beyerdynamic.com/amiron-home.html)
