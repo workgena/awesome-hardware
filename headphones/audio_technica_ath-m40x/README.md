@@ -30,7 +30,7 @@ Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit
 
 ## Recommendations
 - If clamping force is to strong for you, you can stretch it - putting over something like PC case
-- If ear-pads are hot for you, you will easily find different replacement on Amazon.
+- If ear-pads are hot for you, you will easily find different replacement on Amazon. For example [Brainwavz Angled Memory Foam Earpad](https://www.reddit.com/r/headphones/comments/7ld6pl/audio_technica_m40x_brainwavz_hm5_angled_pleather/?utm_source=share&utm_medium=web2x)
 
 ## Reviews
 - [Z Review - Audio-Technica ATH-M40x (aka FU©K M50's even harder)](https://youtu.be/X6wBv03B1nk)
