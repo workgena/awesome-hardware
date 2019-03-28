@@ -41,6 +41,6 @@ Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit
 - [The 2 Best Headphones of All Time under $100](https://youtu.be/MgTw0qgQnwA)
 
 ## Alternatives
-- TAKSTAR PRO 82 Professional Studio Dynamic Monitor Headphone
+- TAKSTAR PRO 82 Professional Studio Dynamic Monitor Headphone | review [1](https://www.head-fi.org/threads/takstar-pro-82-review-impressions-and-discussion-thread.849965/page-118#post-14173375)
 - Audio Technica ATH-M50X
 - Sony MDR-7506 | review by [metal571](https://youtu.be/Ob7afLIGjng)
