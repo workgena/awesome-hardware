@@ -33,6 +33,7 @@ Best on-the-go stylish headphones. It is extremely neutral, with just a tiny bit
 - If ear-pads are hot for you, you will easily find different replacement on Amazon. For example [Brainwavz Angled Memory Foam Earpad](https://www.reddit.com/r/headphones/comments/7ld6pl/audio_technica_m40x_brainwavz_hm5_angled_pleather/?utm_source=share&utm_medium=web2x)
 
 ## Reviews
+- [Audio-Technica ATH-M40x Sound Review](https://youtu.be/kEH_8sF_EuY)
 - [Z Review - Audio-Technica ATH-M40x (aka FU©K M50's even harder)](https://youtu.be/X6wBv03B1nk)
 - [Are the ATH-M40x's good for just listening to music?](https://www.quora.com/Are-the-ATH-M40xs-good-for-just-listening-to-music)
 - [Audio Technica ATH-M50x vs M40x vs Sennheiser HD 558 - Best Of The Best!](https://youtu.be/hocMcnJssE4)
