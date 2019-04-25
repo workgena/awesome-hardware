@@ -73,9 +73,10 @@ In spite of some disadvantages the product could be good for someone.
 *   [beyerdynamic Amiron Home](https://north-america.beyerdynamic.com/amiron-home.html)
 
     Reviews: [beyerdynamic Amiron Home Review](https://youtu.be/bhSUJYDO0Qo) \
-    [Amiron Home Review](https://youtu.be/Dc-_lOvrzuU)
+    [Amiron Home Review](https://youtu.be/Dc-_lOvrzuU) \
+    [Beyerdynamic Amiron Home | sugar for your ears](https://youtu.be/kNQQdqs6oms)
 
-    Like others **beyerdynamic**, this one has bright treble. Not for comfort long easy listening.
+    Like others **beyerdynamic**, this one has bright treble. Not for comfort long easy listening. Heavy weight.
 
 *   [AKG K712 Pro](https://www.akg.com/Headphones/Professional%20Headphones/K712PRO.html)
 
