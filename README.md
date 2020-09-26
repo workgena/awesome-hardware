@@ -66,7 +66,7 @@ List of [all headphones](headphones/README.md)
 - [Lenovo ThinkPad](https://www.lenovo.com/us/en/thinkpad) Windows/Linux
 - [System76 Lemur Pro](https://system76.com/laptops/lemur) Linux
 
-## PC Components
+## Portable
 
 - [Western Digital My Passport SSD](https://www.wd.com/products/portable-storage/my-passport-ssd.html)
 - [Seagate One Touch SSD](https://www.seagate.com/consumer/backup/one-touch-ssd/)
