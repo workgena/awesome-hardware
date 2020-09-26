@@ -50,6 +50,7 @@ If you already feel shoulder/wrist pain it is highly recommended go for split-ke
   * [Unicomp Ultra Classic](unicomp_ultra_classic/en.md) successor of the **IBM Model M**
   * [Topre Realforce RGB](topre_tealforce_rgb/README.md)
   * [Logitech Craft](logitech_craft/README.md)
+  * [Logitech Keyboard K120](https://www.logitech.com/en-us/product/k120?crid=27)
 - Non-standard Size Keyboards
   * [Microsoft Sculpt Ergonomic Desktop](sculpt_ergonomic_desktop/README.md)
   * [Adesso Tru-Form Media 1150 – Wireless Ergo Mini](https://www.adesso.com/product/adesso-tru-form-media-1150-wireless-ergo-mini-keyboard-mouse/) - the quality is doubtful
