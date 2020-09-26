@@ -53,9 +53,7 @@ List of [all headphones](headphones/README.md)
 
 ## Microphones
 
-- [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)\
-  the most popular among streamers and content creators\
-  Buy [US](https://www.amazon.com/dp/B00N1YPXW2/) [UA](http://ek.ua/BLUE-MICROPHONES-YETI.htm)
+- [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)
 
 ## Audio Systems
 
@@ -75,9 +73,12 @@ List of [all headphones](headphones/README.md)
 
 ## Chairs
 
+- N/A
+
 ## Desks
 
+- N/A
 
 # Not awesome, but still worth to mention
 
-- [List of questionable](questionable.md) products. The list contains popular products and short answer why they are no awesome.
+- [List of questionable](questionable.md) peripherals contains popular items and short answer why they are no awesome.
