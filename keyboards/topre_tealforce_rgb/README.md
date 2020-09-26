@@ -1,4 +1,4 @@
-# [Topre Realforce RGB](http://www.realforce.co.jp/en/products/realforce_rgb/index.html)
+# [Realforce RGB / R2A-US4G-BK](https://www.realforce.co.jp/en/products/R2A-US4G-BK/)
 
 The highest Hi-End product you can find on the market with unique feature of changing actuation distance.
 
