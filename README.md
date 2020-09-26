@@ -3,13 +3,14 @@
 The collection of computer hardware and peripherals for professional use, for programmers, designers, content creators, etc. Tools which are comfortable to use, increase your productivity, and make work on the computer less harmful for health.
 
 ## Contents
+
 - [Keyboards](#keyboards)
 - [Mice](#mice)
 - [Monitors](#monitors)
 - [Headphones](#headphones)
 - [Microphones](#microphone)
 - [Audio Systems](#audio-systems)
-- [Notebooks](#notebooks)
+- [Notebooks](#laptops)
 - [PC Components](#pc-components)
 - [Chairs](#chairs)
 - [Desks](#desks)
@@ -33,12 +34,14 @@ List of [all keyboards](keyboards/README.md)
 List of [all mice](mice/README.md).
 
 ## Monitors
+
 - [EIZO](http://www.eizoglobal.com/)
 - [Dell](https://www.dell.com/en-us/work/shop/accessories/ac/4009?c=us&category_id=4009&cs=04&l=en&ref=bkt&s=bsd)
 - [LG](https://www.lg.com/us/monitors)
 - [BenQ SW271](https://www.benq.com/en-us/monitor/photographer/sw271.html)
 
 ## Headphones
+
 - [Koss KSC75](headphones/koss_ksc75/README.md)
 - [Audio Technica ATH-M40x](headphones/audio_technica_ath-m40x/README.md)
 - [Audio-Technica ATH-M60x](headphones/audio_technica_ath-m60x/README.md)
@@ -49,6 +52,7 @@ List of [all mice](mice/README.md).
 List of [all headphones](headphones/README.md)
 
 ## Microphones
+
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)\
   the most popular among streamers and content creators\
   Buy [US](https://www.amazon.com/dp/B00N1YPXW2/) [UA](http://ek.ua/BLUE-MICROPHONES-YETI.htm)
@@ -59,10 +63,11 @@ List of [all headphones](headphones/README.md)
 - [Audioengine A2+ Powered Speaker System](https://audioengineusa.com/shop/poweredspeakers/a2-plus-powered-speakers/)
 - [Yamaha HS7W](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html)
 
-## Notebooks
+## Laptops
 
-- [System76 Galago Pro](https://system76.com/laptops/galago)
-- [Apple MacBook Pro](https://www.apple.com/macbook-pro/)
+- [Apple MacBook Pro](https://www.apple.com/macbook-pro/) Mac
+- [Lenovo ThinkPad](https://www.lenovo.com/us/en/thinkpad) Windows/Linux
+- [System76 Lemur Pro](https://system76.com/laptops/lemur) Linux
 
 ## PC Components
 
