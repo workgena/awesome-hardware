@@ -69,6 +69,7 @@ List of [all headphones](headphones/README.md)
 ## PC Components
 
 - [Western Digital My Passport SSD](https://www.wd.com/products/portable-storage/my-passport-ssd.html)
+- [Seagate One Touch SSD](https://www.seagate.com/consumer/backup/one-touch-ssd/)
 
 ## Chairs
 
