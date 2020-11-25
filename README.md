@@ -73,7 +73,9 @@ List of [all headphones](headphones/README.md)
 
 ## Chairs
 
-- N/A
+- [Herman Miller Embody](https://store.hermanmiller.com/office/office-chairs/embody-task-chair/4737.html?lang=en_US)
+- [Herman Miller Aeron](https://store.hermanmiller.com/office/office-chairs/aeron-chair/2195348.html?lang=en_US)
+- [Steelcase Leap](https://www.steelcase.com/products/office-chairs/leap/)
 
 ## Desks
 
