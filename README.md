@@ -28,6 +28,7 @@ List of [all keyboards](keyboards/README.md)
 ## Mice
 
 - [Microsoft Sculpt Ergonomic Mouse](mice/sculpt_ergonomic_mouse/README.md)
+- [Logitech MX Master 3](mice/logitech_mx_master_3/README.md)
 - [Razer DeathAdder Elite](mice/razer_deathadder/README.md)
 
 List of [all mice](mice/README.md).

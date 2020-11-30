@@ -22,6 +22,7 @@ Good explanation by Steve Meagher: [The Ergonomics Guy - How To Choose A Mouse](
 Product sorted by awesomeness, but they all good.
 
 - [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md)
+- [Logitech MX Master 3](logitech_mx_master_3/README.md)
 - [Razer DeathAdder Elite](razer_deathadder/README.md)
   * [Razer Mamba Elite](https://www.razer.com/gaming-mice/razer-mamba-elite) is better in every aspect.
   * Below are _awesome_ mice with similar DeathAdder's shape:
