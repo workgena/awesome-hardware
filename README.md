@@ -82,6 +82,6 @@ List of [all headphones](headphones/README.md)
 
 - N/A
 
-# Not awesome, but still worth to mention
+# Not awesome, but worth to mention
 
 - [List of questionable](questionable.md) peripherals contains popular items and short answer why they are no awesome.
