@@ -10,7 +10,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 - [Headphones](#headphones)
 - [Microphones](#microphone)
 - [Audio Systems](#audio-systems)
-- [Notebooks](#laptops)
+- [Laptops](#laptops)
 - [PC Components](#pc-components)
 - [Chairs](#chairs)
 - [Desks](#desks)
