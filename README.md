@@ -53,6 +53,7 @@ List of [all headphones](headphones/README.md)
 
 ## Microphones
 
+- [Razer Seiren Mini](microphones/razer_seiren_mini/README.md)
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)
 
 ## Audio Systems
