@@ -31,6 +31,7 @@ Therefore the criteria for awesomeness are:
   - Beyerdynamic DT990 Pro (need AMP ?)
 * ~$300
   - Sennheiser HD 58X (need AMP ?)
+  - [Beyerdynamic MMX 300](https://north-america.beyerdynamic.com/mmx-300.html)
 * ~$400
   - ...
 * ~$500
