@@ -36,8 +36,9 @@ Therefore the criteria for awesomeness are:
 * ~$500
   - [Sennheiser HD 660 S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s)
 * ~$600 and more
-  - [Beyerdynamic AMIRON Home/Wireless](https://north-america.beyerdynamic.com/amiron-wireless.html)
   - [Beyerdynamic DT 1990 PRO](beyerdynamic_dt_1990_pro/README.md) (need AMP)
+  - [Beyerdynamic Amiron Home](https://north-america.beyerdynamic.com/amiron-home.html)
+  - [Beyerdynamic Amiron Wireless](https://north-america.beyerdynamic.com/amiron-wireless.html)
 
 **Notice.** If you need microphone, then use dedicated one or something like [ModMic](https://antlionaudio.com/)
 
