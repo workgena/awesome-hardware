@@ -15,7 +15,6 @@ Therefore the criteria for awesomeness are:
   - [KOSS KSC75](koss_ksc75/README.md)
   - [Koss Porta Pro](koss_porta_pro/README.md)
   - Superlux HD668B
-  - Superlux HD330
   - Status Audio CB-1
 * ~$100
   - [Audio Technica ATH-M40x](audio_technica_ath-m40x/README.md)
@@ -28,16 +27,17 @@ Therefore the criteria for awesomeness are:
 * ~$200
   - [Audio-Technica ATH-M60x](audio_technica_ath-m60x/README.md)
   - [Massdrop x HIFIMAN HE4XX Planar Magnetic Headphones](hifiman_he4xx/README.md)
+  - Beyerdynamic DT880 Pro (need AMP ?)
+  - Beyerdynamic DT990 Pro (need AMP ?)
 * ~$300
   - Sennheiser HD 58X (need AMP ?)
-  - Sennheiser HD 600 (need AMP !?)
 * ~$400
   - ...
 * ~$500
   - [Sennheiser HD 660 S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s)
-  - Beyerdynamic DT1770 (need AMP ?)
 * ~$600 and more
-  - [Beyerdynamic DT 1990 PRO](beyerdynamic_dt_1990_pro/README.md)
+  - [Beyerdynamic AMIRON Home/Wireless](https://north-america.beyerdynamic.com/amiron-wireless.html)
+  - [Beyerdynamic DT 1990 PRO](beyerdynamic_dt_1990_pro/README.md) (need AMP)
 
 **Notice.** If you need microphone, then use dedicated one or something like [ModMic](https://antlionaudio.com/)
 
