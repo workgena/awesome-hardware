@@ -33,7 +33,7 @@ Therefore the criteria for awesomeness are:
   - Sennheiser HD 58X (need AMP ?)
   - [Beyerdynamic MMX 300](https://north-america.beyerdynamic.com/mmx-300.html)
 * ~$400
-  - ...
+  - [Audeze LCD-1](https://www.audeze.com/products/lcd-1)
 * ~$500
   - [Sennheiser HD 660 S](https://en-us.sennheiser.com/headphones-audiophile-high-end-hd-660-s)
 * ~$600 and more
