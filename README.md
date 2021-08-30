@@ -37,7 +37,7 @@ List of [all mice](mice/README.md).
 
 - [EIZO](http://www.eizoglobal.com/)
 - [Dell](https://www.dell.com/en-us/work/shop/accessories/ac/4009?c=us&category_id=4009&cs=04&l=en&ref=bkt&s=bsd)
-- [LG](https://www.lg.com/us/monitors)
+- [NEC](https://www.nec-display.com/global/index.html)
 - [BenQ SW271](https://www.benq.com/en-us/monitor/photographer/sw271.html)
 
 ## Headphones
