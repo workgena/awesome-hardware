@@ -23,16 +23,11 @@ Product sorted by awesomeness, but they all good.
 
 - [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md)
 - [Logitech MX Master 3](logitech_mx_master_3/README.md)
-- [Razer DeathAdder Elite](razer_deathadder/README.md)
-  * [Razer Mamba Elite](https://www.razer.com/gaming-mice/razer-mamba-elite) is better in every aspect.
+- [Razer DeathAdder V3 Pro](razer_deathadder/README.md)
   * Below are _awesome_ mice with similar DeathAdder's shape:
-  * [Zowie EC-A Series](https://zowie.benq.com/en/product/mouse/ec/ec2-a.html) | Review [EN](https://youtu.be/QHxUvNIVy1k)
+  * [ZOWIE EC2-CW Wireless Mouse For Esports](https://zowie.benq.com/en-us/mouse/ec2-cw.html)
   * [Microsoft Classic Intellimouse](microsoft_classic_intellimouse/README.md)
-  * [Logitech G403](https://www.logitechg.com/en-us/product/g403-prodigy-wired-gaming-mouse)
-  * [Logitech G603](https://www.logitechg.com/en-us/product/g603-lightspeed-wireless-gaming-mouse) Wireless
-  * [Logitech G703](https://www.logitechg.com/en-us/product/g703-wireless-gaming-mouse) Wireless
   * [SteelSeries Rival 310](https://steelseries.com/gaming-mice/rival-310) | Review [EN](https://youtu.be/i62CDjEbhLo)
-  * [Roccat Kone Pure Series](https://www.roccat.org/en-US/Products/Gaming-Mice/Kone-Pure-Series/Kone-Pure-Owl-Eye/) | Review [EN](https://youtu.be/Ck-nXyhRJMA)
   * [HyperX Pulsefire FPS](https://www.hyperxgaming.com/en/mice/pulsefire-fps-gaming-mouse) | Review [EN](https://youtu.be/ZfQmyU_qJG8)
 - [Zowie FK Series](https://zowie.benq.com/en/product/mouse/fk/fk2.html)
 
