@@ -25,6 +25,7 @@ Product sorted by awesomeness, but they all good.
 - [Logitech MX Master 3](logitech_mx_master_3/README.md)
 - [Razer DeathAdder V3 Pro](razer_deathadder/README.md)
   * Below are _awesome_ mice with similar DeathAdder's shape:
+  * [Pulsar Xlite V2 Mini](https://pulsargg.eu/products/xlite-v2-mini)
   * [ZOWIE EC2-CW Wireless Mouse For Esports](https://zowie.benq.com/en-us/mouse/ec2-cw.html)
   * [Microsoft Classic Intellimouse](microsoft_classic_intellimouse/README.md)
   * [SteelSeries Rival 310](https://steelseries.com/gaming-mice/rival-310) | Review [EN](https://youtu.be/i62CDjEbhLo)
