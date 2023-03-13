@@ -17,7 +17,7 @@ The collection of computer hardware and peripherals for professional use, for pr
 
 ## Keyboards
 
-- [Leopold FC660C](keyboards/leopold_fc660c/README.md)
+- [Keychron Q2](keyboards/keychron_q2/README.md)
 - [Microsoft Sculpt Ergonomic Desktop](keyboards/sculpt_ergonomic_desktop/README.md)
 - [Poker keyboards](keyboards/poker/README.md)
 - [Realforce 87U](keyboards/realforce_87u/README.md)
