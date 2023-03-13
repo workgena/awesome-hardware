@@ -1,6 +1,6 @@
 # [Keychron Q2](https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard)
 
-![img](q2_main.jpg)
+![img](q2_gallery.jpg)
 
 ## What is good?
 
