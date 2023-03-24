@@ -21,8 +21,8 @@ Good explanation by Steve Meagher: [The Ergonomics Guy - How To Choose A Mouse](
 
 Product sorted by awesomeness, but they all good.
 
-- [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md)
-- [Logitech MX Master 3](logitech_mx_master_3/README.md)
+Gaming mice aslo sutable for office an productivity:
+
 - [Razer DeathAdder V3 Pro](razer_deathadder/README.md)
   * Below are _awesome_ mice with similar DeathAdder's shape:
   * [Pulsar Xlite V2 Mini](https://pulsargg.eu/products/xlite-v2-mini)
@@ -32,5 +32,16 @@ Product sorted by awesomeness, but they all good.
   * [HyperX Pulsefire FPS](https://www.hyperxgaming.com/en/mice/pulsefire-fps-gaming-mouse) | Review [EN](https://youtu.be/ZfQmyU_qJG8)
 - [Zowie FK Series](https://zowie.benq.com/en/product/mouse/fk/fk2.html)
 
+Office and productivity mice:
+
+- [Microsoft Sculpt Comfort Mouse](https://www.microsoft.com/en/accessories/products/mice/sculpt-comfort-mouse)
+- [Logitech MX Master 3](logitech_mx_master_3/README.md)
+
+Vertical mice:
+
+- [Microsoft Sculpt Ergonomic Mouse](sculpt_ergonomic_mouse/README.md)
+- [Logitech Lift](https://www.logitech.com/en-us/products/mice/lift-vertical-ergonomic-mouse.html)
+
 ## Useful Links
+
 - [The Best Mouse for Laptops](https://youtu.be/tNCwvihWO78)
