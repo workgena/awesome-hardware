@@ -67,7 +67,7 @@ List of [all headphones](headphones/README.md)
 ## Laptops
 
 - [Apple MacBook Pro](https://www.apple.com/macbook-pro/) Mac
-- [Lenovo ThinkPad](https://www.lenovo.com/us/en/thinkpad) Windows/Linux
+- [Lenovo Yoga & Slim](https://www.lenovo.com/us/en/yoga/) Windows/Linux
 - [System76 Lemur Pro](https://system76.com/laptops/lemur) Linux
 
 ## Portable
